@@ -1,13 +1,36 @@
-# 📪 Making a post
+# 📪 Create a free account
 
-## Step 1 - Start journalling
+Welcome to Blinks.to, the premier URL shortening service that transforms long, unwieldy links into short, user-friendly URLs. Follow these simple steps to create your account and start shortening URLs today.
 
-Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
+### STEP 1: **Visit the Sign-Up Page**
 
-![](https://images.unsplash.com/photo-1522881451255-f59ad836fdfb?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx3cml0ZXxlbnwwfHx8fDE2NjA1ODc5Nzk\&ixlib=rb-1.2.1\&q=80)
+Navigate to [blinks.to](https://www.blinks.to/signup) and click on the "Sign Up" button, usually located at the top right corner of the homepage.
 
-## Step 2 - Create Post
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
 
-![](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxwb3N0fGVufDB8fHx8MTY2MDU4ODAzMg\&ixlib=rb-1.2.1\&q=80)
+### **Step 2: Fill Out the Registration Form**
+
+* **Username**: Choose a unique username that will be associated with your account.
+* **Email Address**: Enter a valid email address. We will use this to verify your account and for account recovery purposes.
+* **Password**: Create a strong password. Ensure it is at least 8 characters long, and includes a mix of letters, numbers, and symbols for enhanced security.
+* **Confirm Password**: Re-enter your password to confirm
+* **Terms & Conditions**: Read through our [Terms of Service](https://chat.openai.com/#terms-of-service) and [Privacy Policy](https://chat.openai.com/#privacy-policy). By signing in you agree to the terms.
+* **Click on Sign u**p for Free Button to confirm
+
+{% hint style="info" %}
+Once you confirm, you will be taken to the below page requesting you to check the email for a confirmation email. Proceed as instructed
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 3.13.13 PM.png" alt=""><figcaption></figcaption></figure>
+
+### **Step 4: Verify Your Email**
+
+After submitting the signup form, check your email inbox (and your spam folder) for a verification email from us. Click the <mark style="color:orange;">**"Confirm Email Address"**</mark> link inside the email to activate your account.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 3.21.32 PM.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+On confirming your email address, you are directed to the account confirmed success page for a few seconds and then redirected to the login page
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 3.25.31 PM.png" alt=""><figcaption></figcaption></figure>

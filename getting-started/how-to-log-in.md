@@ -1,21 +1,42 @@
-# 📎 Understanding Projects
+# 👩💻 How to log in?
 
-## How Projects work
+Accessing your blinks.to account is quick and easy. Follow the steps below to log in and start shortening URLs in no time
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+### **Step 1: Go to the Log In Page**
 
-### The Basics
+Visit [blinks.to ](https://www.blinks.to/login)and click on the "Log In" button, usually located at the top right corner of the homepage.
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 3.31.09 PM.png" alt=""><figcaption></figcaption></figure>
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+### **Step 2: Enter Your Credentials**
 
-### Creating a Project
+* **Username**: Enter the username or email associated with your account.
+* **Password**: Enter your account password.
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
-### Organizing your Projects
 
-Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui.
+{% hint style="success" %}
+Check **Remember me so** that you can continue being logged in for 24 hours, without having to providing your login credentials again
+{% endhint %}
 
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+<div align="left" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 3.37.21 PM (2).png" alt="" width="218"><figcaption></figcaption></figure>
+
+</div>
+
+### **Step 3: Click “Log In”**
+
+After entering your credentials, click the “Log In” button to access your account.
+
+
+
+{% hint style="warning" %}
+**Forgotten Password?**
+
+If you’ve forgotten your password, click on the “Forgot Password?” link. Enter your registered email address, and we’ll send you instructions on how to reset your password.
+{% endhint %}
+
+### **Step 4: Start Shortening URLs**
+
+Once logged in, you are ready to start using blinks.to to shorten URLs, manage your links, and analyse click data.

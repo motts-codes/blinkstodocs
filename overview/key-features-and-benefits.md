@@ -1,17 +1,38 @@
-# ✨ Our Features
+# ✨ Key Features & Benefits
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+**Blinks.to** offers an array of powerful features to revolutionize your link sharing experience:
+
+
+
+{% hint style="success" %}
+For Free Plans and Above
 {% endhint %}
 
-## Awesome Feature One
+* **URL Shortening:** Instantly transform lengthy URLs into concise, shareable links, making your online presence more elegant and effective.
+* **Custom Domain/Branding:** Elevate your brand by using a custom domain and customising links with keywords and ensuring they reflect your unique style.
+* **Link Management:** Secure your important links with Link Lock, set passwords
+* **Customisation:** Edit alias names, redirect links and page titles (with limits)
+* **UTM Buider:** Easily build UTM parameters to track link traffic with precision
+* **QR Code Generator:** Easily generate QR codes and track their scans, bridging the gap between online and offline engagement.
+* **Campaign Management:** Organize your links into campaigns for efficient tracking and analytics.
+* **API Integration:** Seamlessly integrate our platform with your applications to streamline link management and analytics
+* **User-Friendly:** Our platform is intuitive and designed to be user-friendly for all experience levels.
+*   **Privacy:** We prioritize the security and privacy of your data, ensuring your trust in our service.
 
-Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
 
-![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
 
-## Awesome Feature Two
+{% hint style="success" %}
+For Paid Plans (Including Free + below features)
+{% endhint %}
 
-Get amazing things done with awesome feature two. But remember that awesome feature one and three exist too. In fact, Awesome Product is full of awesome features.
+* **Link Management:** In addition to free features, reset click counts, and control expiration based on clicks count or expiry date
+* **Branded Domain:** Use your custom branded domain for links
+* **Customization:** In addition to customisation available in free plan, you can edit alias names, redirect links, and page titles without limits.&#x20;
+* **Targeting Pixels:** Optimize link performance with tracking and targeting pixels, empowering you with invaluable insights.
+* **Mobile Redirects:** Seamlessly guide mobile users to their intended destinations&#x20;
+* **Deep Linking:** Harness the power of deep linking to connect users directly to app content&#x20;
+* **A/B Testing:** Refine your links through A/B testing and ensure they perform at their best
+* **Team Collaboration:** Enhance teamwork by adding team members and tracking performance together.
+* **Custom QR Code:** Design custom QR codes with unique shapes, patterns, and colors&#x20;
 
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+With these comprehensive features, **Blinks.to** provides a versatile platform for URL shortening, branding, and advanced link management. Enjoy a seamless and secure link-sharing experience while ensuring the privacy and security of your data.

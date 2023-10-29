@@ -1,11 +1,7 @@
 # 💡 What we do
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+## Overview
 
-## Video overview
+At Blinks.to, we understand the importance of effective link management and sharing in the digital age. Long and complex URLs can be unwieldy, inconvenient, and can even deter your audience from clicking. That's where we come in.
 
-Got 2 minutes? Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+**Blinks.to** is designed to make sharing, branding, and managing web addresses a breeze. Our platform takes your lengthy URLs and converts them into concise, memorable links, improving the user experience and ensuring your audience can engage with your content without any hurdles.

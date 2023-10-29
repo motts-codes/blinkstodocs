@@ -11,12 +11,12 @@
 ## Getting Started
 
 * [📪 Create a free account](getting-started/create-a-free-account.md)
-* [📎 How to log in?](getting-started/how-to-log-in.md)
+* [👩💻 How to log in?](getting-started/how-to-log-in.md)
 
 ## Shortening Urls
 
-* [✨ How to shorten a url?](shortening-urls/how-to-shorten-a-url.md)
 * [🔗 Anatomy of a short url](shortening-urls/anatomy-of-a-short-url.md)
+* [✨ How to shorten a url?](shortening-urls/how-to-shorten-a-url.md)
 * [⚙ Customising short urls](shortening-urls/customising-short-urls.md)
 * [🌠 Copy and share urls](shortening-urls/copy-and-share-urls.md)
 
