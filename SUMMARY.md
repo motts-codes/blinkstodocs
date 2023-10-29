@@ -4,7 +4,6 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
 * [🚀 Why Blinks.to?](overview/why-blinks.to.md)
 * [✨ Key Features & Benefits](overview/key-features-and-benefits.md)
 
