@@ -6,7 +6,7 @@ Welcome to Blinks.to, the premier URL shortening service that transforms long, u
 
 Navigate to [blinks.to](https://www.blinks.to/signup) and click on the "Sign Up" button, usually located at the top right corner of the homepage.
 
-
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 4.15.35 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2: Fill Out the Registration Form**
 
