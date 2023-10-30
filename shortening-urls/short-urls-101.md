@@ -5,7 +5,7 @@ description: >-
   of a short link, so you know exactly what each pa
 ---
 
-# 🔗 Anatomy of a short url
+# ℹ Short urls - 101
 
 &#x20;In this section, we’ll break down the key components of a short link, so you know exactly what each part does and how you can utilise them to your advantage.
 

@@ -1,17 +1,25 @@
+---
+description: >-
+  Transforming your long and unwieldy URLs into short, manageable links is
+  simple with blinks.to
+---
+
 # ✨ How to shorten a url?
 
 {% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+In this section, we will guide you through the process of shortening URLs, customizing them, and sharing them with your audience.
 {% endhint %}
 
-## Awesome Feature One
+There are multiple ways of shortening urls in blinks.to. Let's start with the simple, straight foward and quick method. Post login your will be directed to your dashboard. We will go through the dashboard and the different sections in subsequent sections.&#x20;
 
-Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
+1. **Enter your long url:** Paste the long URL you wish to shorten into the centre input field.
+2. **Click "Shorten Url"**: Press the “Shorten Url” button to initiate the URL shortening process. Our system will quickly generate a short link for you.
+3. **Your Shortened URL**: Once processed, your shortened URL will appear on the screen below along with other urls that you have shortened
 
-![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
 
-## Awesome Feature Two
 
-Get amazing things done with awesome feature two. But remember that awesome feature one and three exist too. In fact, Awesome Product is full of awesome features.
+<figure><img src="../.gitbook/assets/Group 24.jpg" alt=""><figcaption><p>img 1 - Shortening url in Dashboard</p></figcaption></figure>
 
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+{% embed url="https://vimeo.com/879308229?share=copy" %}
+Video 1 - Shortening url in main dashboard
+{% endembed %}
