@@ -31,15 +31,28 @@ Unlike campaigns, a URL can be associated with multiple tags, e.g., ‘primeday�
 7. **Bulk Edit Checkbox**: Streamline the editing process by selecting multiple URLs for bulk actions such as assigning to a campaign, deleting, or bookmarking.\
 
 8. **URL Analytics**: Displays the total click count for the URL. Clicking on this will redirect you to a detailed analytics page for the specific URL.\
+   \
+   \
+   \
+
+
+{% embed url="https://youtu.be/2r1TIMUk3yc" %}
+Blinks.to url edits panel
+{% endembed %}
 
 9. **URL Edit Panel**: Offers a suite of editing functionalities:
-   * **Copy**: Quickly copy the shortened URL for sharing.
-   * **Edit URL**: Redirect to the editing page for comprehensive modifications.
-   * **View Analytics**: Equivalent to clicking on the analytics button mentioned above.
-   * **Bookmark**: Mark the URL as a favorite for expedited access in the future.
-   * **QR Code**: Generate a QR code corresponding to the URL.
-   * **Delete**: Remove the URL from your database.\
+
+* **Copy**: Quickly copy the shortened URL for sharing.
+* **Edit URL**: Redirect to the editing page for comprehensive modifications.
+* **View Analytics**: Equivalent to clicking on the analytics button mentioned above.
+* **Bookmark**: Mark the URL as a favorite for expedited access in the future.
+* **QR Code**: Generate a QR code corresponding to the URL.
+* **Delete**: Remove the URL from your database.\
+
 
 10. **Favicon**: A visual icon sourced from the original URL’s webpage. In its absence, a generic globe icon is utilized.
 
 Through understanding the intricate components and functionalities associated with your shortened URLs, you are now equipped to fully leverage the editing and customisation capabilities of blinks.to, ensuring a tailored and efficient experience.
+
+
+
