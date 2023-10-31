@@ -28,8 +28,6 @@ Video 1 - Shortening url in main dashboard
 
 ### <mark style="color:purple;">**Copy Shortened Url**</mark>
 
-
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.53.19 PM.png" alt=""><figcaption><p>img 2 - Copy url for sharing</p></figcaption></figure>
 
 After successfully shortening your URL, easily copy it to your clipboard by clicking the copy icon located in the top panel of the URL component. This facilitates seamless sharing of your shortened link wherever you need."
