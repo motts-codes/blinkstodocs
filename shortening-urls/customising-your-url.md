@@ -1,4 +1,4 @@
-# ✏ Customising your url
+# ⚙ Customising your url
 
 Fine-tuning your shortened URL is effortless with \[Your App Name]. To begin customization, simply click on the edit icon located in the top panel of the URL component. This action will redirect you to the Edit URL page, where you have the freedom to adjust various elements to suit your preferences.
 

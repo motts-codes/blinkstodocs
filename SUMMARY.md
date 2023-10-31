@@ -17,11 +17,13 @@
 * [ℹ Short urls - 101](shortening-urls/short-urls-101.md)
 * [✨ How to shorten a url?](shortening-urls/how-to-shorten-a-url.md)
 * [🔗 Anatomy of a blinks.to url](shortening-urls/anatomy-of-a-blinks.to-url.md)
-* [✏ Customising your url](shortening-urls/customising-your-url.md)
-* [✨ Create custom url](shortening-urls/create-custom-url.md)
+* [⚙ Customising your url](shortening-urls/customising-your-url.md)
+* [✏ Create custom url](shortening-urls/create-custom-url.md)
 * [🆘 Common Errors & Fixes](shortening-urls/common-errors-and-fixes.md)
-* [⚙ Customising short urls](shortening-urls/customising-short-urls.md)
-* [🌠 Copy and share urls](shortening-urls/copy-and-share-urls.md)
+
+## Other Url Edits
+
+* [📢 Other Url Features](other-url-edits/other-url-features.md)
 
 ## Your Dashboard
 

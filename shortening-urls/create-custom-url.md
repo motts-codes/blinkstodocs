@@ -1,4 +1,4 @@
-# ✨ Create custom url
+# ✏ Create custom url
 
 Alternatively, you can opt for a more tailored approach by setting all the custom parameters before the conversion process. This method leads to a personalized shortened URL right from the start.
 
