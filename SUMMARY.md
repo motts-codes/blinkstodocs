@@ -21,9 +21,9 @@
 * [✏ Create custom url](shortening-urls/create-custom-url.md)
 * [🆘 Common Errors & Fixes](shortening-urls/common-errors-and-fixes.md)
 
-## Other Url Edits
+## Url Features
 
-* [📢 Other Url Features](other-url-edits/other-url-features.md)
+* [📢 Features](url-features/features.md)
 
 ## Your Dashboard
 
