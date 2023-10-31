@@ -10,6 +10,8 @@ description: >-
 In this section, we will guide you through the process of shortening URLs, customizing them, and sharing them with your audience.
 {% endhint %}
 
+### <mark style="color:purple;">Shorten Url</mark>
+
 There are multiple ways of shortening urls in blinks.to. Let's start with the simple, straight foward and quick method. Post login your will be directed to your dashboard. We will go through the dashboard and the different sections in subsequent sections.&#x20;
 
 1. **Enter your long url:** Paste the long URL you wish to shorten into the centre input field.
@@ -23,3 +25,11 @@ There are multiple ways of shortening urls in blinks.to. Let's start with the si
 {% embed url="https://vimeo.com/879308229?share=copy" %}
 Video 1 - Shortening url in main dashboard
 {% endembed %}
+
+### <mark style="color:purple;">**Copy Shortened Url**</mark>
+
+
+
+
+
+After successfully shortening your URL, easily copy it to your clipboard by clicking the copy icon located in the top panel of the URL component. This facilitates seamless sharing of your shortened link wherever you need."
