@@ -17,7 +17,7 @@
 * [ℹ Short urls - 101](shortening-urls/short-urls-101.md)
 * [✨ How to shorten a url?](shortening-urls/how-to-shorten-a-url.md)
 * [🔗 Anatomy of a blinks.to url](shortening-urls/anatomy-of-a-blinks.to-url.md)
-* [✏ Customize a shortened url](shortening-urls/customize-a-shortened-url.md)
+* [✏ Customising your url](shortening-urls/customising-your-url.md)
 * [✨ Create a shortened url](shortening-urls/create-a-shortened-url.md)
 * [⚙ Customising short urls](shortening-urls/customising-short-urls.md)
 * [🌠 Copy and share urls](shortening-urls/copy-and-share-urls.md)
