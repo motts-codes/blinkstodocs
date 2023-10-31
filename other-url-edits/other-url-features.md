@@ -40,13 +40,9 @@ Hover your cursor over the QR code to unveil options, allowing you to download i
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.09.04 PM.png" alt=""><figcaption><p>img 7 - Hover over qr code to download svg or png</p></figcaption></figure>
 
-
-
-###
-
-###
-
 ### <mark style="color:purple;">**3. Deleting URLs:**</mark>&#x20;
 
 To remove a URL, click the delete icon found in the top panel of the URL component. A confirmation alert will appear, asking for your assurance to proceed with the deletion. Upon confirmation, the URL, along with its associated analytics and any generated QR codes, will be permanently deleted from the system.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.16.32 PM.png" alt=""><figcaption><p>img 8 - Delete url</p></figcaption></figure>
 
