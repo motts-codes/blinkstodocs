@@ -2,6 +2,10 @@
 
 The main dashboard is strategically organized into four primary sections to optimize user navigation and functionality:
 
+
+
+<figure><img src="../.gitbook/assets/dashboard 1.png" alt=""><figcaption><p>img 1 - Dashboard</p></figcaption></figure>
+
 #### 1. Sidebar (Navigation Panel):
 
 * **User & Plan Info:** Displays the current user, their subscription plan, and connection status (indicated by a blinking green circle).
