@@ -9,7 +9,7 @@ The 'Links' section of our platform serves as the central hub for managing and v
 * This page displays the complete list of URLs you have shortened.
 * For easy navigation, the links are paginated, showing 15 entries by default on each page. This number can be adjusted in your profile settings for personalized viewing.
 
-
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-03 at 3.32.08 PM.png" alt=""><figcaption><p>img 1 - Links - Central hub for viewing and managing your shortened urls</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Sorting and Filtering Options:**</mark>
 
