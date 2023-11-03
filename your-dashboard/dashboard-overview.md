@@ -20,6 +20,24 @@ The main dashboard is strategically organized into four primary sections to opti
 
 </div>
 
+### <mark style="color:orange;">Sidebar Accessibility:</mark>
+
+For your convenience, the sidebar is designed to be collapsible, allowing you to maximize your workspace as needed.
+
+**To Toggle Sidebar:**&#x20;
+
+* Look for the toggle icon (represented by a blue vertical small line) situated at the right of the sidebar.
+* When you **hover over this line**, it changes to an **arrow icon**—pointing rightwards to indicate expansion, or leftwards to signal retraction.
+* Simply **click** on this icon to swiftly **expand or collapse** the sidebar.
+
+This hover-to-reveal functionality allows for a clean interface while providing easy access to expand the sidebar when you need it.
+
+{% embed url="https://youtube.com/shorts/y4Dnc5cMtGU?feature=share" %}
+video 1 - Sidebar Toggle - Open & Close
+{% endembed %}
+
+
+
 * **Navigation Options:** Provides quick links to various sections of the web app, including:
   * **Create New URL:** A dedicated space for custom URL conversion.
   * **Dashboard:** Your main workspace and overview.
