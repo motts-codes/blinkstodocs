@@ -4,6 +4,8 @@
 
 Our platform offers a robust bulk editing feature, providing an efficient way to manage multiple shortened URLs simultaneously. This tool is especially useful for applying quick changes to a series of links without the need to edit each one individually.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-03 at 8.52.25 PM.png" alt=""><figcaption><p>img 1 - Bulk edit by selecting multiple urls</p></figcaption></figure>
+
 ### <mark style="color:orange;">**Available Bulk Actions:**</mark>
 
 * **Campaign Reassignment:** Easily move selected URLs to a different campaign.
@@ -17,18 +19,36 @@ Our platform offers a robust bulk editing feature, providing an efficient way to
 3. Highlighted links with a light orange tint and a darker orange border indicate selected URLs, checkboxes will be marked accordingly.
 4. For broader selections, use the "Select All" function within the bulk edit toolbar to capture all visible URLs on the page.
 
+{% embed url="https://youtu.be/8UCG5nngIq0" %}
+Video 1 - Bulk select urls
+{% endembed %}
+
 ### <mark style="color:orange;">**Performing Bulk Actions:**</mark>
 
 * <mark style="color:blue;">**Assigning a New Campaign:**</mark>
-  * After selecting the desired URLs, click on the 'Campaign' button on the bulk edit toolbar.
+  * After selecting the desired URLs, click on the '**Campaign**' button on the bulk edit toolbar.
   * A dialog will surface, displaying your available campaigns.
-  * Choose the campaign you wish to assign to your selected URLs and confirm by clicking 'Update Campaign'.
+  * Choose the campaign you wish to assign to your selected URLs and confirm by clicking **'Update Campaign'.**
+
+{% embed url="https://youtu.be/-BPgc4nOXLE" %}
+Video 2 - Bulk assign campaign
+{% endembed %}
+
 * <mark style="color:blue;">**Bookmarking:**</mark>
-  * Select the URLs and click on the 'Bookmark' option in the toolbar.
+  * Select the URLs and click on the '**Bookmark**' option in the toolbar.
   * The bookmark status will toggle en masse: URLs not previously bookmarked will be bookmarked, and those that were bookmarked will be removed from bookmarks.
-* <mark style="color:blue;">**Deletin**</mark>**g URLs:**
-  * Select the desired URLs and press 'Delete' on the bulk edit toolbar.
+
+{% embed url="https://youtu.be/nb4uETaPNY0" %}
+Video 3 - Bulk favourite urls with Bookmark
+{% endembed %}
+
+* <mark style="color:blue;">**Deleting**</mark> <mark style="color:blue;">**URLs**</mark>**:**
+  * Select the desired URLs and press '**Delete**' on the bulk edit toolbar.
   * A confirmation dialog will prompt you to verify the deletion. Be aware that confirming this action will permanently erase the selected URLs and their associated analytics data.
+
+{% embed url="https://youtu.be/zGdp2zAifOg" %}
+Video 4 - Bulk delete urls
+{% endembed %}
 
 {% hint style="warning" %}
 Bulk editing actions are irreversible and will affect all selected URLs. Please use this feature with consideration to prevent any accidental loss of data.
