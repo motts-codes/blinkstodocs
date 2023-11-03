@@ -29,7 +29,7 @@
 
 * [🎛 Dashboard Overview](your-dashboard/dashboard-overview.md)
 * [🌟 Links Overview](your-dashboard/links-overview.md)
-* [🍱 Modules Overview](your-dashboard/modules-overview.md)
+* [🍱 Bulk Edit Urls](your-dashboard/bulk-edit-urls.md)
 * [⚙ Manage & Organize Urls](your-dashboard/manage-and-organize-urls.md)
 * [🌠 Copy and share urls](your-dashboard/copy-and-share-urls.md)
 
