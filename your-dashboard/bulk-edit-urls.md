@@ -47,7 +47,7 @@ Video 3 - Bulk favourite urls with Bookmark
   * A confirmation dialog will prompt you to verify the deletion. Be aware that confirming this action will permanently erase the selected URLs and their associated analytics data.
 
 {% embed url="https://youtu.be/zGdp2zAifOg" %}
-Video 4 - Bulk delete urls
+Video 4 - Bulk edit urls
 {% endembed %}
 
 {% hint style="warning" %}
