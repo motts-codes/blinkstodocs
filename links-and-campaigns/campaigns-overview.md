@@ -1,4 +1,4 @@
-# 📢 Campaigns Overview
+# 🎇 Campaigns Overview
 
 ## <mark style="color:purple;">**Navigating the Campaigns Page**</mark>
 
