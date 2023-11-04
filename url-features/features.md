@@ -62,3 +62,4 @@ To remove a URL, click the delete icon found in the top panel of the URL compone
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.16.32 PM.png" alt=""><figcaption><p>img 8 - Delete url</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-04 at 11.31.55 AM.png" alt="" width="375"><figcaption><p>img 9 - Confirmation to delete url</p></figcaption></figure>
