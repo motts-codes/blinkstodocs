@@ -48,6 +48,12 @@ Video 3 - Bulk favourite urls with Bookmark
 
 
 
+{% embed url="https://youtu.be/24rTsiDK_6Y" %}
+Video 4 - Bulk delete urls
+{% endembed %}
+
+
+
 {% hint style="warning" %}
 Bulk editing actions are irreversible and will affect all selected URLs. Please use this feature with consideration to prevent any accidental loss of data.
 {% endhint %}
