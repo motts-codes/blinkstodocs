@@ -1,4 +1,4 @@
-# 📢 Other Url Features
+# 📢 Features
 
 ### <mark style="color:purple;">1. Bo</mark><mark style="color:purple;">**okmarking URLs:**</mark>
 
@@ -7,6 +7,10 @@ Bookmarking URLs facilitates quick and easy access to your frequently used links
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.01.01 PM.png" alt=""><figcaption><p>img 1 - Bookmark a url</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.01.10 PM.png" alt=""><figcaption><p>img 2 - Bookmarked url indicated with blue bookmark icon</p></figcaption></figure>
+
+{% hint style="info" %}
+**Remove bookmark:** To remove the bookmark click on the bookmark icon on the top panel
+{% endhint %}
 
 
 
@@ -39,6 +43,18 @@ The generated QR code will then appear to the right of the URL component.&#x20;
 Hover your cursor over the QR code to unveil options, allowing you to download it in either SVG or PNG format.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.09.04 PM.png" alt=""><figcaption><p>img 7 - Hover over qr code to download svg or png</p></figcaption></figure>
+
+{% hint style="info" %}
+#### **Remove QR code:**  To detach a QR Code from one of your URLs, please follow these simple steps:
+{% endhint %}
+
+1. Navigate to the URL's panel at the top of the page.
+2. Locate the QR code icon associated with the URL from which you wish to remove the QR code.
+3. Click on this icon to initiate the removal process for the QR code linked to your selected URL.
+
+Upon clicking, the QR code will be disassociated from the specific URL, effectively removing it from the list of QR-coded links. Use this function to manage and maintain the relevance and organization of your QR codes as your campaign needs evolve.
+
+
 
 ### <mark style="color:purple;">**3. Deleting URLs:**</mark>&#x20;
 
