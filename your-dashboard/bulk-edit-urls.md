@@ -1,6 +1,6 @@
 # 🍱 Bulk Edit Urls
 
-## <mark style="color:purple;">**Guide to Bulk Editing Shortened URLs**</mark>
+<mark style="color:purple;">**Guide to Bulk Editing Shortened URLs**</mark>
 
 Our platform offers a robust bulk editing feature, providing an efficient way to manage multiple shortened URLs simultaneously. This tool is especially useful for applying quick changes to a series of links without the need to edit each one individually.
 
@@ -46,9 +46,7 @@ Video 3 - Bulk favourite urls with Bookmark
   * Select the desired URLs and press '**Delete**' on the bulk edit toolbar.
   * A confirmation dialog will prompt you to verify the deletion. Be aware that confirming this action will permanently erase the selected URLs and their associated analytics data.
 
-{% embed url="https://youtu.be/zGdp2zAifOg" %}
-Video 4 - Bulk edit urls
-{% endembed %}
+
 
 {% hint style="warning" %}
 Bulk editing actions are irreversible and will affect all selected URLs. Please use this feature with consideration to prevent any accidental loss of data.
