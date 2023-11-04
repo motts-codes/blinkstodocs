@@ -1,2 +1,0 @@
-# 🌠 Copy and share urls
-

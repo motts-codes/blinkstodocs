@@ -28,14 +28,15 @@
 ## Your Dashboard
 
 * [🎛 Dashboard Overview](your-dashboard/dashboard-overview.md)
-* [🌟 Links Overview](your-dashboard/links-overview.md)
-* [🍱 Bulk Edit Urls](your-dashboard/bulk-edit-urls.md)
-* [⚙ Manage & Organize Urls](your-dashboard/manage-and-organize-urls.md)
-* [🌠 Copy and share urls](your-dashboard/copy-and-share-urls.md)
+* [📊 Aggregate Analytics](your-dashboard/aggregate-analytics.md)
 
-## Campaigns
+## Links & Campaigns
 
-* [📢 Campaign Overview](campaigns/campaign-overview.md)
+* [🌟 Links Management](links-and-campaigns/links-management.md)
+* [🍱 Bulk Edit Urls](links-and-campaigns/bulk-edit-urls.md)
+* [🈁 QR Codes](links-and-campaigns/qr-codes.md)
+* [📢 Campaigns Overview](links-and-campaigns/campaigns-overview.md)
+* [📈 Campaign Detail](links-and-campaigns/campaign-detail.md)
 
 ## Click Analytics
 
