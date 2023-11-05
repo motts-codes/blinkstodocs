@@ -28,7 +28,6 @@
 ## Your Dashboard
 
 * [🎛 Dashboard Overview](your-dashboard/dashboard-overview.md)
-* [📊 Aggregate Analytics](your-dashboard/aggregate-analytics.md)
 
 ## Links & Campaigns
 
@@ -37,11 +36,14 @@
 * [🈁 QR Codes](links-and-campaigns/qr-codes.md)
 * [🎇 Campaigns Overview](links-and-campaigns/campaigns-overview.md)
 * [✏ Create/Edit Campaign](links-and-campaigns/create-edit-campaign.md)
-* [📈 Campaign Detail](links-and-campaigns/campaign-detail.md)
+* [📈 Campaign Detail - Urls](links-and-campaigns/campaign-detail-urls.md)
 
 ## Click Analytics
 
 * [📊 Analytics Overview](click-analytics/analytics-overview.md)
+* [📊 Url Analytics](click-analytics/url-analytics.md)
+* [📈 Campaign Detail - Analytics](click-analytics/campaign-detail-analytics.md)
+* [📊 Aggregate Analytics](click-analytics/aggregate-analytics.md)
 
 ## User Account
 

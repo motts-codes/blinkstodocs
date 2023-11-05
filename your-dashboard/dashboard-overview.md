@@ -77,3 +77,11 @@ video 1 - Sidebar Toggle - Open & Close
 * **Converted URL Display:** Below the input field, view your shortened URLs, each with a dedicated component for easy management. Pagination is available to navigate through your URLs, displaying up to 15 per page.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.55.51 PM.png" alt=""><figcaption><p>img 6 - Url shortening and Management</p></figcaption></figure>
+
+{% hint style="info" %}
+To know about aggregate analytics, click below&#x20;
+{% endhint %}
+
+{% content-ref url="../click-analytics/aggregate-analytics.md" %}
+[aggregate-analytics.md](../click-analytics/aggregate-analytics.md)
+{% endcontent-ref %}
