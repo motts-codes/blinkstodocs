@@ -20,6 +20,10 @@ This page presents a holistic view of your campaign's URLs. Here's what to expec
 
 * **Select and Modify:** Similar to the bulk edit function, select the desired URLs and click on the 'Campaign' button on the bottom tool panel. Choose a different campaign name or select 'Default' to dissociate the URLs from the current campaign.
 
+{% embed url="https://youtu.be/LByEr7ZaH84" %}
+video 1 - Remove urls from campaign | Campaign url detail page
+{% endembed %}
+
 
 
 ## <mark style="color:purple;">**Analytics Detail Page:**</mark>&#x20;
