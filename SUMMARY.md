@@ -19,7 +19,6 @@
 * [🔗 Anatomy of a blinks.to url](shortening-urls/anatomy-of-a-blinks.to-url.md)
 * [⚙ Customising your url](shortening-urls/customize-a-shortened-url.md)
 * [✏ Create custom url](shortening-urls/create-custom-url.md)
-* [🆘 Common Errors & Fixes](shortening-urls/common-errors-and-fixes.md)
 
 ## Url Features
 
@@ -54,5 +53,5 @@
 ## FAQ
 
 * [❓ Common Questions](faq/common-questions.md)
-* [🛠 Trouble Shooting Tips](faq/trouble-shooting-tips.md)
+* [🆘 Common Errors & Fixes](faq/common-errors-and-fixes.md)
 * [🤵♂ Contact Support](faq/contact-support.md)
