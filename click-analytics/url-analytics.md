@@ -1,4 +1,4 @@
-# 📊 Url Analytics
+# 📈 Url Analytics
 
 Our URL analytics at [Blinks.to](http://blinks.to/) are designed to provide detailed insights into your link performance, helping you to not only measure but also improve the effectiveness of your URLs. Whether you're accessing analytics from the links section, dashboard, search results, or any other part of the app, the URL component facilitates seamless navigation to your desired analytics page.
 

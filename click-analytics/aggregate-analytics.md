@@ -1,4 +1,4 @@
-# 📊 Aggregate Analytics
+# 🇲🇬 Aggregate Analytics
 
 Aggregate Analytics presents a holistic view of your URL performance metrics, giving you insights into the cumulative impact of your shortened links. The data is compiled from all your URLs over their entire lifespan, affording you a strategic overview of your digital reach.
 

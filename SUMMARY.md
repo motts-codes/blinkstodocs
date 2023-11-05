@@ -41,9 +41,9 @@
 ## Click Analytics
 
 * [📊 Analytics Overview](click-analytics/analytics-overview.md)
-* [📊 Url Analytics](click-analytics/url-analytics.md)
+* [📈 Url Analytics](click-analytics/url-analytics.md)
 * [📈 Campaign Detail - Analytics](click-analytics/campaign-detail-analytics.md)
-* [📊 Aggregate Analytics](click-analytics/aggregate-analytics.md)
+* [🇲🇬 Aggregate Analytics](click-analytics/aggregate-analytics.md)
 
 ## User Account
 
