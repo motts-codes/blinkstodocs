@@ -1,25 +1,125 @@
 # ❓ Common Questions
 
+## <mark style="color:purple;">Getting Started</mark>
+
+<details>
+
+<summary><strong>How do I shorten a URL?</strong></summary>
+
+To shorten a URL, follow these simple steps:
+
+* Log in to your Blinks.to account.
+* Navigate to the Dashboard. 'Shorten URL' section.
+* Enter the URL you wish to shorten in the designated field.
+* Click 'Shorten', and your new compact URL is ready to use!
+
+[how-to-shorten-a-url.md](../shortening-urls/how-to-shorten-a-url.md "mention")
+
+</details>
+
+<details>
+
+<summary><strong>What is a URL campaign, and how do I add URLs to one?</strong></summary>
+
+A URL campaign is a way to group related URLs for tracking and analysis. To add a URL to a campaign:
+
+* Shorten your URL or go to an existing shortened URL.
+* Click on the 'Edit' button or select the URL and choose 'Add to Campaign' from the bulk action options.
+* Select an existing campaign or create a new one.
+* Save your changes, and the URL will be part of the selected campaign.
+
+[bulk-edit-urls.md](../links-and-campaigns/bulk-edit-urls.md "mention")
+
+</details>
+
+## <mark style="color:purple;">URL Management</mark>
+
+<details>
+
+<summary><strong>Can I edit a shortened URL after creating it?</strong></summary>
+
+Yes, you can edit the destination of a shortened URL as long as the shortened link has not received any clicks. To edit, go to the URL's component, click the 'Edit' button, make your changes, and save.
+
+[customize-a-shortened-url.md](../shortening-urls/customize-a-shortened-url.md "mention")
+
+</details>
+
+<details>
+
+<summary><strong>How do I track the performance of my shortened URLs?</strong></summary>
+
+Tracking is done through the URL analytics feature. Click on the 'Analytics' icon next to the URL you wish to track to view detailed statistics including clicks, geographic data, referring platforms, and more.
+
+[analytics-overview.md](../click-analytics/analytics-overview.md "mention")
+
+</details>
+
+## <mark style="color:purple;">Campaigns and Grouping</mark>
+
+<details>
+
+<summary><strong>How can I create a new campaign?</strong></summary>
+
+To create a new campaign, navigate to the 'Campaigns' section and click on 'Add Campaign'. Enter the campaign name and choose a color label. After filling in the details, click 'Create Campaign'.
+
+[create-edit-campaign.md](../links-and-campaigns/create-edit-campaign.md "mention")
+
+</details>
+
+<details>
+
+<summary><strong>How do I edit or delete a campaign?</strong></summary>
+
+Find the campaign you want to edit in the 'Campaigns' section. Click on the 'Edit' icon to rename or change the color. To delete, click the 'Delete' icon. Confirm your action in the popup modal.
+
+</details>
+
+## <mark style="color:purple;">Analytics and Reporting</mark>
 
 
-{% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
-{% endhint %}
 
-## GitHub Integrations
+<details>
 
-Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+<summary><strong>What analytics are available for my URLs and campaigns?</strong></summary>
 
-{% tabs %}
-{% tab title="Installing" %}
-Sed posuere consectetur est at lobortis. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Blinks.to provides a range of analytics, including:
 
-```
-string | ComponentClass<any, any> | FunctionComponent<any>
-```
-{% endtab %}
+1. Url level analytics
+2. Campaign level analytics
+3. Aggreate analytics
 
-{% tab title="Second tab" %}
-Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.
-{% endtab %}
-{% endtabs %}
+* Total clicks and click trends over time - Aggreate and url specific
+* Geographic distribution of clicks by country and city.
+* Platform analysis, such as operating systems and browsers used.
+* Referral sources, including social media platforms.
+* Campaign-specific aggregate stats.
+
+[analytics-overview.md](../click-analytics/analytics-overview.md "mention")
+
+</details>
+
+<details>
+
+<summary><strong>Can I export the analytics data for reporting?</strong></summary>
+
+Yes, you can export analytics data from the analytics dashboard. Select the timeframe and data points you're interested in and use the 'Export as PNG' option for graphs or 'Export Data' for a CSV file.
+
+</details>
+
+## <mark style="color:purple;">Account and Settings</mark>
+
+<details>
+
+<summary><strong>How do I change the number of URLs displayed per page?</strong></summary>
+
+Go to your user profile settings, where you'll find the option to set the preferred number of URLs per page. You can customise this setting to suit your convenience.
+
+</details>
+
+<details>
+
+<summary><strong>How can I reset my password if I forget it?</strong></summary>
+
+If you've forgotten your password, click on the 'Forgot Password' link on the login page. Enter your email address, and you'll receive instructions to reset your password.
+
+</details>
