@@ -37,6 +37,10 @@
 * [✏ Create/Edit Campaign](links-and-campaigns/create-edit-campaign.md)
 * [📈 Campaign Detail - Urls](links-and-campaigns/campaign-detail-urls.md)
 
+## Search
+
+* [🔍 Search](search/search.md)
+
 ## Click Analytics
 
 * [📊 Analytics Overview](click-analytics/analytics-overview.md)
