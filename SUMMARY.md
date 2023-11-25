@@ -33,9 +33,9 @@
 * [🌟 Links Management](links-and-campaigns/links-management.md)
 * [🍱 Bulk Edit Urls](links-and-campaigns/bulk-edit-urls.md)
 * [🈁 QR Codes](links-and-campaigns/qr-codes.md)
-* [🎇 Campaigns Overview](links-and-campaigns/campaigns-overview.md)
-* [✏ Create/Edit Campaign](links-and-campaigns/create-edit-campaign.md)
-* [📈 Campaign Detail - Urls](links-and-campaigns/campaign-detail-urls.md)
+* [🎇 Collections Overview](links-and-campaigns/collections-overview.md)
+* [✏ Create/Edit Collection](links-and-campaigns/create-edit-collection.md)
+* [📈 Collection Detail - Urls](links-and-campaigns/collection-detail-urls.md)
 
 ## Search
 

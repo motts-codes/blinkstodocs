@@ -62,7 +62,7 @@ Tracking is done through the URL analytics feature. Click on the 'Analytics' ico
 
 To create a new campaign, navigate to the 'Campaigns' section and click on 'Add Campaign'. Enter the campaign name and choose a color label. After filling in the details, click 'Create Campaign'.
 
-[create-edit-campaign.md](../links-and-campaigns/create-edit-campaign.md "mention")
+[create-edit-collection.md](../links-and-campaigns/create-edit-collection.md "mention")
 
 </details>
 
