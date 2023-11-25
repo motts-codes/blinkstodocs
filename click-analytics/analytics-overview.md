@@ -38,8 +38,8 @@ When you group URLs into a campaign, you get aggregated analytics that combine d
 Dive deep in to campaign analytics by clicking the link below
 {% endhint %}
 
-{% content-ref url="campaign-detail-analytics.md" %}
-[campaign-detail-analytics.md](campaign-detail-analytics.md)
+{% content-ref url="collection-detail-analytics.md" %}
+[collection-detail-analytics.md](collection-detail-analytics.md)
 {% endcontent-ref %}
 
 ## <mark style="color:purple;">Aggregate Analytics</mark>
