@@ -26,10 +26,10 @@ Edit Url page
 * **Redirect URL**: Modify the destination URL if you wish to redirect to a different page.
 * **Collection Assignment**: You have the option to associate the URL with a different collection. If the desired collection does not exist, you can swiftly create a new one.
 
-### <mark style="color:purple;">Creating new campaign (optional)</mark>
+### <mark style="color:purple;">Creating new collection (optional)</mark>
 
 {% hint style="info" %}
-If the appropriate campaign is not available, creating a new one is a straightforward process.
+If the appropriate collection is not available, creating a new one is a straightforward process.
 {% endhint %}
 
 1. **Choose an Existing Collection**: If you have previously created collections, you can select the one you prefer.
@@ -37,7 +37,7 @@ If the appropriate campaign is not available, creating a new one is a straightfo
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-30 at 4.43.31 PM.png" alt="" width="351"><figcaption><p>img 3 - Campaign select / Create new campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-30 at 4.43.31 PM.png" alt="" width="351"><figcaption><p>img 3 - Collection select / Create new collection</p></figcaption></figure>
 
 </div>
 
@@ -53,7 +53,7 @@ If the appropriate campaign is not available, creating a new one is a straightfo
 
 * **Select Collection Color**: Choose a color from the available palette options to visually distinguish this collection
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.24.57 PM.png" alt=""><figcaption><p>img 5 - Select color for new campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.24.57 PM.png" alt=""><figcaption><p>img 5 - Select color for new collection</p></figcaption></figure>
 
 * **Select Collection Color**: Choose a color from the available palette options to visually distinguish this collection.
 
