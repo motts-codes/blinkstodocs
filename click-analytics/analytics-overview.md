@@ -1,6 +1,6 @@
 # 📊 Analytics Overview
 
-Our platform offers a robust suite of analytics tools designed to give you a deep dive into the performance metrics of your URLs and campaigns. Here's a detailed look at the various analytics available across the app:
+Our platform offers a robust suite of analytics tools designed to give you a deep dive into the performance metrics of your URLs and collections. Here's a detailed look at the various analytics available across the app:
 
 ## <mark style="color:purple;">URL Analytics</mark>
 
@@ -31,11 +31,11 @@ When you group URLs into a collection, you get aggregated analytics that combine
 * **Cumulative Clicks:** Get the total click count across all collection URLs.
 * **Performance Graphs:** Visualize click trends on a graph for the entire collection.
 * **Top Performing URLs:** Identify which URLs within the collection are garnering the most attention.
-* **Collection Reach:** Look at the geographic spread and the digital platforms that are most effective for your campaign.
+* **Collection Reach:** Look at the geographic spread and the digital platforms that are most effective for your collection.
 * **Engagement Metrics:** Analyze user engagement with insights on clicks, device usage, and referral sources for the entire collection.
 
 {% hint style="info" %}
-Dive deep in to campaign analytics by clicking the link below
+Dive deep in to collection analytics by clicking the link below
 {% endhint %}
 
 {% content-ref url="collection-detail-analytics.md" %}
