@@ -21,12 +21,12 @@ To shorten a URL, follow these simple steps:
 
 <summary><strong>What is a URL campaign, and how do I add URLs to one?</strong></summary>
 
-A URL campaign is a way to group related URLs for tracking and analysis. To add a URL to a campaign:
+A URL collection is a way to group related URLs for tracking and analysis. To add a URL to a campaign:
 
 * Shorten your URL or go to an existing shortened URL.
-* Click on the 'Edit' button or select the URL and choose 'Add to Campaign' from the bulk action options.
-* Select an existing campaign or create a new one.
-* Save your changes, and the URL will be part of the selected campaign.
+* Click on the 'Edit' button or select the URL and choose 'Add to Collection' from the bulk action options.
+* Select an existing collection or create a new one.
+* Save your changes, and the URL will be part of the selected collection.
 
 [bulk-edit-urls.md](../links-and-campaigns/bulk-edit-urls.md "mention")
 
