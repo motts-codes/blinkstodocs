@@ -8,7 +8,7 @@ Our platform offers a robust bulk editing feature, providing an efficient way to
 
 ### <mark style="color:orange;">**Available Bulk Actions:**</mark>
 
-* **Campaign Reassignment:** Easily move selected URLs to a different campaign.
+* **Collection Reassignment:** Easily move selected URLs to a different collection.
 * **Bookmark Management:** Swiftly bookmark multiple links for easier access or remove them from your bookmarks.
 * **Deletion:** Remove multiple URLs in one action, streamlining the management of outdated or unnecessary links.
 
@@ -25,13 +25,13 @@ Video 1 - Bulk select urls
 
 ### <mark style="color:orange;">**Performing Bulk Actions:**</mark>
 
-* <mark style="color:blue;">**Assigning a New Campaign:**</mark>
-  * After selecting the desired URLs, click on the '**Campaign**' button on the bulk edit toolbar.
-  * A dialog will surface, displaying your available campaigns.
-  * Choose the campaign you wish to assign to your selected URLs and confirm by clicking **'Update Campaign'.**
+* <mark style="color:blue;">**Assigning a New Collection:**</mark>
+  * After selecting the desired URLs, click on the '**Collection**' button on the bulk edit toolbar.
+  * A dialog will surface, displaying your available collections.
+  * Choose the collection you wish to assign to your selected URLs and confirm by clicking **'Update Collection'.**
 
 {% embed url="https://youtu.be/-BPgc4nOXLE" %}
-Video 2 - Bulk assign campaign
+Video 2 - Bulk assign collection
 {% endembed %}
 
 * <mark style="color:blue;">**Bookmarking:**</mark>
