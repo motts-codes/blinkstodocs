@@ -22,17 +22,17 @@ Dive deep in to url analytics by clicking the link below
 [url-analytics.md](url-analytics.md)
 {% endcontent-ref %}
 
-## <mark style="color:purple;">Campaign Analytics</mark>
+## <mark style="color:purple;">Collection Analytics</mark>
 
-When you group URLs into a campaign, you get aggregated analytics that combine data from all the URLs within that campaign.
+When you group URLs into a collection, you get aggregated analytics that combine data from all the URLs within that collection.
 
 **Features:**
 
-* **Cumulative Clicks:** Get the total click count across all campaign URLs.
-* **Performance Graphs:** Visualize click trends on a graph for the entire campaign.
-* **Top Performing URLs:** Identify which URLs within the campaign are garnering the most attention.
-* **Campaign Reach:** Look at the geographic spread and the digital platforms that are most effective for your campaign.
-* **Engagement Metrics:** Analyze user engagement with insights on clicks, device usage, and referral sources for the entire campaign.
+* **Cumulative Clicks:** Get the total click count across all collection URLs.
+* **Performance Graphs:** Visualize click trends on a graph for the entire collection.
+* **Top Performing URLs:** Identify which URLs within the collection are garnering the most attention.
+* **Collection Reach:** Look at the geographic spread and the digital platforms that are most effective for your campaign.
+* **Engagement Metrics:** Analyze user engagement with insights on clicks, device usage, and referral sources for the entire collection.
 
 {% hint style="info" %}
 Dive deep in to campaign analytics by clicking the link below
