@@ -54,13 +54,13 @@ Tracking is done through the URL analytics feature. Click on the 'Analytics' ico
 
 </details>
 
-## <mark style="color:purple;">Campaigns and Grouping</mark>
+## <mark style="color:purple;">Collections and Grouping</mark>
 
 <details>
 
-<summary><strong>How can I create a new campaign?</strong></summary>
+<summary><strong>How can I create a new collection?</strong></summary>
 
-To create a new campaign, navigate to the 'Campaigns' section and click on 'Add Campaign'. Enter the campaign name and choose a color label. After filling in the details, click 'Create Campaign'.
+To create a new collection, navigate to the 'Collections' section and click on 'Add Collection'. Enter the collection name and choose a color label. After filling in the details, click 'Create Collection'.
 
 [create-edit-collection.md](../links-and-campaigns/create-edit-collection.md "mention")
 
@@ -68,9 +68,9 @@ To create a new campaign, navigate to the 'Campaigns' section and click on 'Add 
 
 <details>
 
-<summary><strong>How do I edit or delete a campaign?</strong></summary>
+<summary><strong>How do I edit or delete a collection?</strong></summary>
 
-Find the campaign you want to edit in the 'Campaigns' section. Click on the 'Edit' icon to rename or change the color. To delete, click the 'Delete' icon. Confirm your action in the popup modal.
+Find the collection you want to edit in the 'Collections' section. Click on the 'Edit' icon to rename or change the color. To delete, click the 'Delete' icon. Confirm your action in the popup modal.
 
 </details>
 
@@ -80,19 +80,19 @@ Find the campaign you want to edit in the 'Campaigns' section. Click on the 'Edi
 
 <details>
 
-<summary><strong>What analytics are available for my URLs and campaigns?</strong></summary>
+<summary><strong>What analytics are available for my URLs and collections?</strong></summary>
 
 Blinks.to provides a range of analytics, including:
 
 1. Url level analytics
-2. Campaign level analytics
+2. Collection level analytics
 3. Aggreate analytics
 
 * Total clicks and click trends over time - Aggreate and url specific
 * Geographic distribution of clicks by country and city.
 * Platform analysis, such as operating systems and browsers used.
 * Referral sources, including social media platforms.
-* Campaign-specific aggregate stats.
+* Collection-specific aggregate stats.
 
 [analytics-overview.md](../click-analytics/analytics-overview.md "mention")
 
