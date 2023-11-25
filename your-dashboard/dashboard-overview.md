@@ -44,7 +44,7 @@ video 1 - Sidebar Toggle - Open & Close
   * **Aggregate Stats:** Displays comprehensive metrics, top URL lists, graphical representations of user interactions based on different categories, and more.
   * **Links:** Access to your complete list of shortened URLs, with extensive filtering and sorting options.
   * **QR Codes:** A specific area for URLs associated with QR codes, retaining all filtering options found in 'Links'.
-  * **Campaigns:** View, manage, and create new marketing campaigns, each displayed with relevant statistics.
+  * **Collections:** View, manage, and create collections to group your marketing promotions, each displayed with relevant statistics.
   * **Bulk Convert:** A utility for mass URL shortening through text input or file uploads, adhering to plan-specific limitations.
   * **Export Links:** Allows users to download their URL data and associated click metrics.
   * **Help Docs:** Directs to this help documentation.
@@ -52,7 +52,7 @@ video 1 - Sidebar Toggle - Open & Close
 
 ## <mark style="color:purple;">2. Top Menu Bar:</mark>
 
-* **Search:** A powerful tool to sift through URLs, campaigns, and more, directing users to a results page with additional filtering options.
+* **Search:** A powerful tool to sift through URLs, collections, and more, directing users to a results page with additional filtering options.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.52.40 PM.png" alt=""><figcaption><p>img 3 - search tool</p></figcaption></figure>
 
