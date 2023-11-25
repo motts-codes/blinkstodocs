@@ -15,7 +15,7 @@ Edit Url page
 * **Page Title**: Update this field for your personal reference, aiding in quicker identification of specific links.
 * **Custom Alias**: Opt to change the shortened part of your URL. Ensure that it is greater than 7 characters for optimal results.
 * **Redirect URL**: Modify the destination URL if you wish to redirect to a different page.
-* **Campaign Assignment**: Any shortened url is assigned a default Campaign name called "Default:. You have the option to associate the URL with a different campaign. If the desired campaign does not exist, you can swiftly create a new one.
+* **Collection Assignment**: Any shortened url is assigned a default Collection name called "Default:. You have the option to associate the URL with a different collection. If the desired collection does not exist, you can swiftly create a new one.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.18.50 PM.png" alt=""><figcaption><p>img 2 - Edit shortened url details</p></figcaption></figure>
 
@@ -24,7 +24,7 @@ Edit Url page
 * **Page Title**: Update this field for your personal reference, aiding in quicker identification of specific links.
 * **Custom Alias**: Opt to change the shortened part of your URL. Ensure that it is greater than 7 characters for optimal results.
 * **Redirect URL**: Modify the destination URL if you wish to redirect to a different page.
-* **Campaign Assignment**: You have the option to associate the URL with a different campaign. If the desired campaign does not exist, you can swiftly create a new one.
+* **Collection Assignment**: You have the option to associate the URL with a different collection. If the desired collection does not exist, you can swiftly create a new one.
 
 ### <mark style="color:purple;">Creating new campaign (optional)</mark>
 
@@ -32,8 +32,8 @@ Edit Url page
 If the appropriate campaign is not available, creating a new one is a straightforward process.
 {% endhint %}
 
-1. **Choose an Existing Campaign**: If you have previously created campaigns, you can select the one you prefer.
-2. **Choose an Existing Campaign**: If you have previously created campaigns, you can select the one you prefer.
+1. **Choose an Existing Collection**: If you have previously created collections, you can select the one you prefer.
+2. **Choose an Existing Collection**: If you have previously created collections, you can select the one you prefer.
 
 <div align="left">
 
@@ -41,23 +41,23 @@ If the appropriate campaign is not available, creating a new one is a straightfo
 
 </div>
 
-2. **Create a New Campaign**: Click on "Create New Campaign" if you wish to establish a new category.
+2. **Create a New Collection**: Click on "Create New Collection" if you wish to establish a new category.
 
-* **Enter Campaign Name**: Provide a unique name for your new campaign.
+* **Enter Collection Name**: Provide a unique name for your new collection.
 
-2. **Create a New Campaign**: Click on "Create New Campaign" if you wish to establish a new category.
+2. **Create a New Collection**: Click on "Create New Collection" if you wish to establish a new category.
 
-* **Enter Campaign Name**: Provide a unique name for your new campaign.
+* **Enter Collection Name**: Provide a unique name for your new collection.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.24.50 PM.png" alt=""><figcaption><p>img 4 - Creating a new camapign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.24.50 PM.png" alt=""><figcaption><p>img 4 - Creating a new collection</p></figcaption></figure>
 
-* **Select Campaign Color**: Choose a color from the available palette options to visually distinguish this campaign
+* **Select Collection Color**: Choose a color from the available palette options to visually distinguish this collection
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.24.57 PM.png" alt=""><figcaption><p>img 5 - Select color for new campaign</p></figcaption></figure>
 
-* **Select Campaign Color**: Choose a color from the available palette options to visually distinguish this campaign.
+* **Select Collection Color**: Choose a color from the available palette options to visually distinguish this collection.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-30 at 6.56.22 PM (1).png" alt=""><figcaption><p>img 5 - Add New Campaign Name and Colour</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-30 at 6.56.22 PM (1).png" alt=""><figcaption><p>img 5 - Add New Collection Name and Colour</p></figcaption></figure>
 
 
 
