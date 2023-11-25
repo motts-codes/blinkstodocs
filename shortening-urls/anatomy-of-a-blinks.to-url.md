@@ -28,12 +28,12 @@ The original, extensive URL that you submitted for shortening.\
 Timestamp indicating when the shortened URL was generated.\
 
 
-## <mark style="color:purple;">**5. Campaign**</mark><mark style="color:purple;">:</mark>&#x20;
+## <mark style="color:purple;">**5. Collection**</mark><mark style="color:purple;">:</mark>&#x20;
 
 This represents a flexible method to organize URLs based on specific needs, ranging from strategic to tactical promotions. For instance, URLs related to Amazon Prime Day could be grouped under a ‘Prime Day’ campaign, enabling you to track collective analytics in addition to individual URL performance.&#x20;
 
 {% hint style="warning" %}
-Note that each URL can only be affiliated with a single campaign.
+Note that each URL can only be affiliated with a single collection.
 {% endhint %}
 
 ## <mark style="color:purple;">**6. Tags**</mark><mark style="color:purple;">:</mark>&#x20;
@@ -41,12 +41,12 @@ Note that each URL can only be affiliated with a single campaign.
 Utilize short identifiers like ‘personal’, ‘work’, or specific promotional channels such as ‘telegram’, ‘whatsapp’, ‘email’ to categorize your URLs.&#x20;
 
 {% hint style="info" %}
-Unlike campaigns, a URL can be associated with multiple tags, e.g., ‘primeday’, ‘email’, ‘new\_customers’.
+Unlike collection, a URL can be associated with multiple tags, e.g., ‘primeday’, ‘email’, ‘new\_customers’.
 {% endhint %}
 
 ## <mark style="color:purple;">**7. Bulk Edit Checkbox**</mark><mark style="color:purple;">:</mark>&#x20;
 
-Streamline the editing process by selecting multiple URLs for bulk actions such as assigning to a campaign, deleting, or bookmarking.\
+Streamline the editing process by selecting multiple URLs for bulk actions such as assigning to a collection, deleting, or bookmarking.\
 
 
 ## <mark style="color:purple;">**8. URL Analytics**</mark><mark style="color:purple;">:</mark>&#x20;
