@@ -10,24 +10,38 @@ description: >-
 In this section, we will guide you through the process of shortening URLs, customizing them, and sharing them with your audience.
 {% endhint %}
 
-### <mark style="color:purple;">Shorten Url</mark>
+### <mark style="color:purple;">Effortless Url Shortening</mark>
 
-There are multiple ways of shortening urls in blinks.to. Let's start with the simple, straight foward and quick method. Post login your will be directed to your dashboard. We will go through the dashboard and the different sections in subsequent sections.&#x20;
+Shortening URLs in Blinks.to is a breeze, and we'll start with the **Quick Convert Widget**, a simple and efficient method accessible from every page within the app.
+
+<figure><img src="../.gitbook/assets/quick convert widget.jpg" alt=""><figcaption><p>Img 1. Quick convert widget</p></figcaption></figure>
+
+**How to Use the Quick Convert Widget:**
 
 1. **Enter your long url:** Paste the long URL you wish to shorten into the centre input field.
-2. **Click "Shorten Url"**: Press the “Shorten Url” button to initiate the URL shortening process. Our system will quickly generate a short link for you.
-3. **Your Shortened URL**: Once processed, your shortened URL will appear on the screen below along with other urls that you have shortened
 
+<figure><img src="../.gitbook/assets/shorten after pasting link.jpg" alt=""><figcaption><p>Img 2. Paste url in quick convert widget</p></figcaption></figure>
 
+2.  **Click "Shorten"**: Initiate the shortening process by clicking the "Shorten" button. Our system will swiftly generate a concise link for you.
 
-<figure><img src="../.gitbook/assets/Group 24.jpg" alt=""><figcaption><p>img 1 - Shortening url in Dashboard</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/copy after shortening.jpg" alt=""><figcaption><p>Img 3. Copy shortened link to clipboard</p></figcaption></figure>
+3. **Your Shortened URL**: Once processed, your shortened URL will instantly appear on the widget. Simply click the copy button to copy the URL and start sharing your content.
 
-{% embed url="https://vimeo.com/879308229?share=copy" %}
-Video 1 - Shortening url in main dashboard
-{% endembed %}
+<figure><img src="../.gitbook/assets/copied after shortening.jpg" alt=""><figcaption><p>Img 4. Url copied to clipboard</p></figcaption></figure>
 
-### <mark style="color:purple;">**Copy Shortened Url**</mark>
+**Post-Shortening Navigation in Blinks.to:**
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 12.53.19 PM.png" alt=""><figcaption><p>img 2 - Copy url for sharing</p></figcaption></figure>
+Upon utilizing the Quick Convert Widget to shorten a URL, the behavior varies based on the page you are currently on:
 
-After successfully shortening your URL, easily copy it to your clipboard by clicking the copy icon located in the top panel of the URL component. This facilitates seamless sharing of your shortened link wherever you need."
+* **Dashboard, Analytics, Links, and QR Codes Pages:**
+  * The URL component seamlessly integrates into the list of URLs on these pages.
+  * This integration allows you to effortlessly customize titles and aliases using the URL component.
+
+<figure><img src="../.gitbook/assets/dashboard after converting.jpg" alt=""><figcaption><p>Img 5. Dashboard view: Newly shortened url below metrics</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Links page after converting.jpg" alt=""><figcaption><p>Img 6. Links page view. Newly shortened url in the list of urls</p></figcaption></figure>
+
+* **Other Pages:**
+  * The Quick Convert Widget remains self-contained and doesn't impact any other part of the page.
+
+<figure><img src="../.gitbook/assets/Home page after converting.jpg" alt=""><figcaption><p>Img 7. Home page. Self contained quick convert widget</p></figcaption></figure>

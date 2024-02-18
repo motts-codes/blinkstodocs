@@ -6,9 +6,7 @@ Accessing your blinks.to account is quick and easy. Follow the steps below to lo
 
 Visit [blinks.to ](https://www.blinks.to/login)and click on the "Log In" button, usually located at the top right corner of the homepage.
 
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 4.14.08 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Login.jpg" alt=""><figcaption><p>Img 1 - Login Form</p></figcaption></figure>
 
 ### **Step 2: Enter Your Credentials**
 
