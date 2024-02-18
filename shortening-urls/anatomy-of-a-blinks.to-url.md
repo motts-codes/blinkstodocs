@@ -4,7 +4,7 @@
 
 Upon transforming your URLs using http://blinks.to, each shortened link is presented with a consistent structure of components across the app. This setup ensures straightforward viewing and convenient editing options for users. In this segment, we delve into the various components of a shortened URL, elucidating on editable features and additional information provided for a seamless customization and editing experience.
 
-<figure><img src="../.gitbook/assets/url component (1).jpg" alt=""><figcaption><p>Img 1 - Anatomy of a blinks.to url component</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/url component (2).jpg" alt=""><figcaption><p>Img 1 - Anatomy of a blinks.to url component</p></figcaption></figure>
 
 {% embed url="https://drive.google.com/file/d/1sNtPeIaOiN_YS5BoKRTkOoWCiaZ8Stdx/view?usp=share_link" %}
 Blinks.to url component
@@ -67,4 +67,12 @@ A visual icon sourced from the original URL’s webpage. In its absence, a gener
 Through understanding the intricate components and functionalities associated with your shortened URLs, you are now equipped to fully leverage the editing and customisation capabilities of blinks.to, ensuring a tailored and efficient experience.
 
 
+
+## <mark style="color:purple;">10. Collection Color:</mark>
+
+**Organize URLs with Collections:**
+
+Enhance control, analytics, and tracking by grouping URLs into collections. When using the Quick Convert Widget, each URL automatically becomes part of the default collection, distinguished by a beige color. This color-coded identifier is conveniently displayed on the right of the URL component.
+
+Moreover, you have the flexibility to create custom collections and assign distinct colors, providing visual cues for easy identification.
 
