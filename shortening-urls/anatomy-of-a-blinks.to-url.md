@@ -4,9 +4,11 @@
 
 Upon transforming your URLs using http://blinks.to, each shortened link is presented with a consistent structure of components across the app. This setup ensures straightforward viewing and convenient editing options for users. In this segment, we delve into the various components of a shortened URL, elucidating on editable features and additional information provided for a seamless customization and editing experience.
 
-<figure><img src="../.gitbook/assets/url component.jpg" alt=""><figcaption><p>img 1 - Anatomy of a blinks.to url component</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/url component (1).jpg" alt=""><figcaption><p>Img 1 - Anatomy of a blinks.to url component</p></figcaption></figure>
 
-
+{% embed url="https://drive.google.com/file/d/1sNtPeIaOiN_YS5BoKRTkOoWCiaZ8Stdx/view?usp=share_link" %}
+Blinks.to url component
+{% endembed %}
 
 ## <mark style="color:purple;">**1. Page Title**</mark><mark style="color:purple;">:</mark>&#x20;
 
@@ -36,32 +38,17 @@ This represents a flexible method to organize URLs based on specific needs, rang
 Note that each URL can only be affiliated with a single collection.
 {% endhint %}
 
-## <mark style="color:purple;">**6. Tags**</mark><mark style="color:purple;">:</mark>&#x20;
-
-Utilize short identifiers like ‘personal’, ‘work’, or specific promotional channels such as ‘telegram’, ‘whatsapp’, ‘email’ to categorize your URLs.&#x20;
-
-{% hint style="info" %}
-Unlike collection, a URL can be associated with multiple tags, e.g., ‘primeday’, ‘email’, ‘new\_customers’.
-{% endhint %}
-
-## <mark style="color:purple;">**7. Bulk Edit Checkbox**</mark><mark style="color:purple;">:</mark>&#x20;
+## <mark style="color:purple;">**6. Bulk Edit Checkbox**</mark><mark style="color:purple;">:</mark>&#x20;
 
 Streamline the editing process by selecting multiple URLs for bulk actions such as assigning to a collection, deleting, or bookmarking.\
 
 
-## <mark style="color:purple;">**8. URL Analytics**</mark><mark style="color:purple;">:</mark>&#x20;
+## <mark style="color:purple;">**7. URL Analytics**</mark><mark style="color:purple;">:</mark>&#x20;
 
 Displays the total click count for the URL. Clicking on this will redirect you to a detailed analytics page for the specific URL.\
-\
-\
-\
 
 
-{% embed url="https://youtu.be/2r1TIMUk3yc" %}
-Blinks.to url edits panel
-{% endembed %}
-
-## <mark style="color:purple;">**9. URL Edit Panel**</mark><mark style="color:purple;">:</mark>&#x20;
+## <mark style="color:purple;">**8. URL Edit Panel**</mark><mark style="color:purple;">:</mark>&#x20;
 
 Offers a suite of editing functionalities:
 
@@ -73,7 +60,7 @@ Offers a suite of editing functionalities:
 * **Delete**: Remove the URL from your database.\
 
 
-## <mark style="color:purple;">**10. Favicon**</mark><mark style="color:purple;">:</mark>&#x20;
+## <mark style="color:purple;">**9. Favicon**</mark><mark style="color:purple;">:</mark>&#x20;
 
 A visual icon sourced from the original URL’s webpage. In its absence, a generic globe icon is utilized.
 
