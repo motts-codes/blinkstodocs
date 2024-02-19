@@ -6,7 +6,7 @@ Fine-tuning your shortened URL is effortless with \[Your App Name]. To begin cus
 
 <figure><img src="../.gitbook/assets/Edit Url.jpg" alt=""><figcaption><p>img 1 - Edit icon in url component</p></figcaption></figure>
 
-#### &#x20;<mark style="background-color:orange;">Quick Edit - Title</mark>&#x20;
+### &#x20;<mark style="color:purple;">Quick Edit - Title</mark>&#x20;
 
 "Before diving into complete customization, you can quickly edit the page title of your URL. Hover over the URL component, and you'll find the quick edit icon next to the title. Click to edit the page title, hit save, and you're good to go. It's that easy!"
 
