@@ -16,13 +16,6 @@ Fine-tuning your shortened URL is effortless with \[Your App Name]. To begin cus
 Edit Url page
 {% endhint %}
 
-**Available Editing Options:**
-
-* **Page Title**: Update this field for your personal reference, aiding in quicker identification of specific links.
-* **Custom Alias**: Opt to change the shortened part of your URL. Ensure that it is greater than 7 characters for optimal results.
-* **Redirect URL**: Modify the destination URL if you wish to redirect to a different page.
-* **Collection Assignment**: Any shortened url is assigned a default Collection name called "Default:. You have the option to associate the URL with a different collection. If the desired collection does not exist, you can swiftly create a new one.
-
 <figure><img src="../.gitbook/assets/Edit url - 1 (1).jpg" alt=""><figcaption><p>img 2 - Edit shortened url details</p></figcaption></figure>
 
 **Available Editing Options:**
@@ -62,7 +55,7 @@ If the appropriate collection is not available, creating a new one is a straight
 
 * **Select Collection Color**: Choose a color from the available palette options to visually distinguish this collection.
 
-#### **UTM Parameters**
+### <mark style="color:purple;">**UTM Parameters**</mark>
 
 Enhance your URL tracking with UTM parameters, assisting you in monitoring the performance of your links across various platforms. Click on UTM Builder in the side bar and continue updating the parameters.
 
