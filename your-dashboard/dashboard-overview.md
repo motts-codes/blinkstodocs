@@ -2,21 +2,17 @@
 
 The main dashboard is strategically organized into four primary sections to optimize user navigation and functionality:
 
+<figure><img src="../.gitbook/assets/Dashboard 1.jpg" alt=""><figcaption><p>Img 1 - Dashboard</p></figcaption></figure>
 
-
-<figure><img src="../.gitbook/assets/dashboard 1.png" alt=""><figcaption><p>img 1 - Dashboard</p></figcaption></figure>
-
-##
-
-<figure><img src="../.gitbook/assets/dashsections.jpg" alt=""><figcaption><p>img 2 - Dashboard sections</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dashsections (1).jpg" alt=""><figcaption><p>Img 2 - Dashboard Sections</p></figcaption></figure>
 
 ## <mark style="color:purple;">1. Sidebar (Navigation Panel):</mark>
 
-* **User & Plan Info:** Displays the current user, their subscription plan, and connection status (indicated by a blinking green circle).
+* **Navigation:** Shows various destinations available within the Blinks.to app
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.50.55 PM.png" alt="" width="256"><figcaption><p>img 2 - User Info</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sidebar.jpg" alt="" width="206"><figcaption><p>Img 3 - Sidebar</p></figcaption></figure>
 
 </div>
 
@@ -32,8 +28,10 @@ For your convenience, the sidebar is designed to be collapsible, allowing you to
 
 This hover-to-reveal functionality allows for a clean interface while providing easy access to expand the sidebar when you need it.
 
-{% embed url="https://youtube.com/shorts/y4Dnc5cMtGU?feature=share" %}
-video 1 - Sidebar Toggle - Open & Close
+
+
+{% embed url="https://drive.google.com/file/d/1ZVprAi6lDLqEwEA4Pl_tbO-Re4H6f_dv/view?usp=share_link" %}
+Video 1 - Sidebar Toggle&#x20;
 {% endembed %}
 
 
@@ -51,6 +49,14 @@ video 1 - Sidebar Toggle - Open & Close
   * **Log Out:** Securely exit your user session.
 
 ## <mark style="color:purple;">2. Top Menu Bar:</mark>
+
+<figure><img src="../.gitbook/assets/Top Menu bar.jpg" alt=""><figcaption><p>Img 4 - Top Menu Bar</p></figcaption></figure>
+
+Top menu bar consists mainly the Quick Convert Widget in the center and search panel, notification and user settings
+
+
+
+
 
 * **Search:** A powerful tool to sift through URLs, collections, and more, directing users to a results page with additional filtering options.
 
