@@ -4,18 +4,18 @@
 
 The Collections page serves as a centralized hub for all your marketing promotions where you can group links related to a promotion under a collection. Here, you’ll find a comprehensive list of all your collections, each displayed in a component layout for ease of navigation and consistency across the platform.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-04 at 12.02.05 PM.png" alt=""><figcaption><p>img 1 - Collection overview page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Collections overview.jpg" alt=""><figcaption><p>Img 1 - Collections overview page</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Collection Component Breakdown:**</mark>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-04 at 12.11.13 PM.png" alt=""><figcaption><p>img 2 - Collection component</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Collections Component.jpg" alt=""><figcaption><p>Img 2 - Collection component</p></figcaption></figure>
 
 ### _<mark style="color:orange;">Top Section:</mark>_
 
 * The collection's designated color is displayed prominently at the top of the component for quick visual identification.
 * The collection title appears on the left, with the total number of clicks for the collection on the right. Clicking on the click count directs you to a detailed collection analytics page, where you can dive into aggregate statistics for that specific collection.
 
-<figure><img src="../.gitbook/assets/campaign component.jpg" alt=""><figcaption><p>img 3 - Anatomy of a collection component</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Collections Component - annotation.jpg" alt=""><figcaption><p>Img 3 - Anatomy of a collection component</p></figcaption></figure>
 
 ### _<mark style="color:orange;">Bottom Section:</mark>_
 
