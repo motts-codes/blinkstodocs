@@ -2,11 +2,11 @@
 
 ### <mark style="color:purple;">1. Bo</mark><mark style="color:purple;">**okmarking URLs:**</mark>
 
-Bookmarking URLs facilitates quick and easy access to your frequently used links. To bookmark a URL, simply click the bookmark icon located in the top panel of the URL component. Once bookmarked, the URL will be marked with a blue bookmark icon for easy identification.
+Bookmarking URLs facilitates quick and easy access to your frequently used links. To bookmark a URL, simply click the bookmark icon located in the top panel of the URL component. Once bookmarked, the URL will be marked with a blue bookmark icon for easy identification
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.01.01 PM.png" alt=""><figcaption><p>img 1 - Bookmark a url</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bookmark url - 1.jpg" alt=""><figcaption><p>Img 1 - Bookmark url</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.01.10 PM.png" alt=""><figcaption><p>img 2 - Bookmarked url indicated with blue bookmark icon</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bookmark url - 2.jpg" alt=""><figcaption><p>Img 2 -  Bookmarked url indicated with blue bookmark icon</p></figcaption></figure>
 
 {% hint style="info" %}
 **Remove bookmark:** To remove the bookmark click on the bookmark icon on the top panel
@@ -26,23 +26,25 @@ Bookmarking URLs facilitates quick and easy access to your frequently used links
 
 2. Utilise the second filter and choose 'View Favorites'.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.01.37 PM.png" alt=""><figcaption><p>img 3 - Filter - Select View Favourites</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/View favourites - 1.jpg" alt=""><figcaption><p>Img 3 - Filter - Select View Favourites</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.02.01 PM.png" alt=""><figcaption><p>img 4 - Bookmarked/Favourite urls in your links section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/View favourites - 2.jpg" alt=""><figcaption><p>Img 4 - Bookmarked/Favourite urls in your links section</p></figcaption></figure>
 
 ### <mark style="color:purple;">**2. Creating QR Codes**</mark>
 
 For generating a QR code for any shortened URL, click on the QR code icon situated in the top panel of the URL component.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.08.47 PM (1).png" alt=""><figcaption><p>img 5 - Create QR Code Icon - Click to create one</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QR Code - 1.jpg" alt=""><figcaption><p>Img 5 - Create QR Code Icon - Click to create one</p></figcaption></figure>
 
 The generated QR code will then appear to the right of the URL component.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.08.56 PM.png" alt=""><figcaption><p>img 6 - Generated QR code on right</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QR Code - 2.jpg" alt=""><figcaption><p>Img 6 - Generated QR code on right</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.08.56 PM.png" alt=""><figcaption><p>img 7 - Generated QR code on right</p></figcaption></figure>
 
 Hover your cursor over the QR code to unveil options, allowing you to download it in either SVG or PNG format.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.09.04 PM.png" alt=""><figcaption><p>img 7 - Hover over qr code to download svg or png</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QR Code - 3.jpg" alt=""><figcaption><p>Img 8 - Hover over QR code to download svg or png</p></figcaption></figure>
 
 {% hint style="info" %}
 #### **Remove QR code:**  To detach a QR Code from one of your URLs, please follow these simple steps:
@@ -60,6 +62,6 @@ Upon clicking, the QR code will be disassociated from the specific URL, effectiv
 
 To remove a URL, click the delete icon found in the top panel of the URL component. A confirmation alert will appear, asking for your assurance to proceed with the deletion. Upon confirmation, the URL, along with its associated analytics and any generated QR codes, will be permanently deleted from the system.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-31 at 2.16.32 PM.png" alt=""><figcaption><p>img 8 - Delete url</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Delete 1.jpg" alt=""><figcaption><p>Img 9 - Delete Url</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-04 at 11.31.55 AM.png" alt="" width="375"><figcaption><p>img 9 - Confirmation to delete url</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Delete 2.jpg" alt="" width="375"><figcaption><p>Img 10 - Delete url confirmation</p></figcaption></figure>
