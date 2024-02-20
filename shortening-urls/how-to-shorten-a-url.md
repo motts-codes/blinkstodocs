@@ -14,6 +14,8 @@ In this section, we will guide you through the process of shortening URLs, custo
 
 Shortening URLs in Blinks.to is a breeze, and we'll start with the **Quick Convert Widget**, a simple and efficient method accessible from every page within the app.
 
+Quick Convert Widget
+
 <figure><img src="../.gitbook/assets/quick convert widget.jpg" alt=""><figcaption><p>Img 1. Quick convert widget</p></figcaption></figure>
 
 **How to Use the Quick Convert Widget:**
