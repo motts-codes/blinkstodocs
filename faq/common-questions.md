@@ -13,7 +13,7 @@ To shorten a URL, follow these simple steps:
 * Enter the URL you wish to shorten in the designated field.
 * Click 'Shorten', and your new compact URL is ready to use!
 
-[how-to-shorten-a-url.md](../shortening-urls/how-to-shorten-a-url.md "mention")
+[quick-convert-widget.md](../shortening-urls/quick-convert-widget.md "mention")
 
 </details>
 

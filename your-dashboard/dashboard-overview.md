@@ -37,52 +37,49 @@ Video 1 - Sidebar Toggle&#x20;
 
 
 * **Navigation Options:** Provides quick links to various sections of the web app, including:
-  * **Create New URL:** A dedicated space for custom URL conversion.
+  * **Create New:** A dedicated space for Custom URL conversion.
+  * **Home**: Your default homepage, providing an overview of your plan details, limits, and current usage.
   * **Dashboard:** Your main workspace and overview.
-  * **Aggregate Stats:** Displays comprehensive metrics, top URL lists, graphical representations of user interactions based on different categories, and more.
+  * **Analytics:** Displays comprehensive metrics, top URL lists, graphical representations of user interactions based on different categories, and more.
   * **Links:** Access to your complete list of shortened URLs, with extensive filtering and sorting options.
   * **QR Codes:** A specific area for URLs associated with QR codes, retaining all filtering options found in 'Links'.
   * **Collections:** View, manage, and create collections to group your marketing promotions, each displayed with relevant statistics.
   * **Bulk Convert:** A utility for mass URL shortening through text input or file uploads, adhering to plan-specific limitations.
-  * **Export Links:** Allows users to download their URL data and associated click metrics.
   * **Help Docs:** Directs to this help documentation.
+  * **User Settings:** User Settings: Gain detailed access to your account information, billing usage, settings, custom domains, and more
   * **Log Out:** Securely exit your user session.
 
 ## <mark style="color:purple;">2. Top Menu Bar:</mark>
 
 <figure><img src="../.gitbook/assets/Top Menu bar.jpg" alt=""><figcaption><p>Img 4 - Top Menu Bar</p></figcaption></figure>
 
-Top menu bar consists mainly the Quick Convert Widget in the center and search panel, notification and user settings
+Top menu bar consists mainly the [Quick Convert Widget](../shortening-urls/quick-convert-widget.md) in the center and search panel, notification and user settings
 
-
-
-
-
+* **Quick Convert Widget:** [View here](../shortening-urls/quick-convert-widget.md)&#x20;
 * **Search:** A powerful tool to sift through URLs, collections, and more, directing users to a results page with additional filtering options.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.52.40 PM.png" alt=""><figcaption><p>img 3 - search tool</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.52.40 PM.png" alt=""><figcaption><p>Img 5 - search tool</p></figcaption></figure>
 
 * **Notifications:** Keeps you updated with the latest features, announcements, or personal messages.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.51.46 PM.png" alt=""><figcaption><p>img 4 - Notifications</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.51.46 PM.png" alt=""><figcaption><p>Img 6 - Notifications</p></figcaption></figure>
 
 * **Profile & Settings:** Quick access to your account settings, help docs, product roadmap, feature requests, and bug reporting.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.51.54 PM.png" alt=""><figcaption><p>img 5 - Profile settings - road map, feature request and more</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.51.54 PM.png" alt=""><figcaption><p>Img 7 - Profile settings - road map, feature request and more</p></figcaption></figure>
 
 ## <mark style="color:purple;">3. Metrics Section:</mark>
 
 * **First Row:** Displays aggregate metrics including the total number of URLs, total clicks, monthly URL additions, and monthly clicks.
 * **Second Row:** Showcases a bar graph depicting daily clicks with adjustable time periods, plus an option to export the chart as a PNG file.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.54.48 PM (1).png" alt=""><figcaption><p>img 6 - Metrics Section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.54.48 PM (1).png" alt=""><figcaption><p>Img 8 - Metrics Section</p></figcaption></figure>
 
-## <mark style="color:purple;">4. URL Shortening and Management:</mark>
+## <mark style="color:purple;">4. URL Components:</mark>
 
-* **URL Input:** A central tool for pasting and converting URLs on-the-fly.
-* **Converted URL Display:** Below the input field, view your shortened URLs, each with a dedicated component for easy management. Pagination is available to navigate through your URLs, displaying up to 15 per page.
+* **Converted URL Display:** Below the input field, view your shortened URLs, each with a dedicated component for easy management. Pagination is available to navigate through your URLs, displaying up to 10 per page.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.55.51 PM.png" alt=""><figcaption><p>img 6 - Url shortening and Management</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/List of urls.jpg" alt=""><figcaption><p>Img 9 - Url shortening and Management</p></figcaption></figure>
 
 {% hint style="info" %}
 To know about aggregate analytics, click below&#x20;

@@ -15,7 +15,7 @@
 ## Shortening Urls
 
 * [ℹ Short urls - 101](shortening-urls/short-urls-101.md)
-* [✨ How to shorten a url?](shortening-urls/how-to-shorten-a-url.md)
+* [✨ Quick Convert Widget](shortening-urls/quick-convert-widget.md)
 * [🔗 Anatomy of a blinks.to url](shortening-urls/anatomy-of-a-blinks.to-url.md)
 * [⚙ Customising your url](shortening-urls/customize-a-shortened-url.md)
 * [✏ Create custom url](shortening-urls/create-custom-url.md)
