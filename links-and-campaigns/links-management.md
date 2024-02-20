@@ -1,4 +1,4 @@
-# 🌟 Links Overview
+# 🌟 Links Management
 
 ## <mark style="color:purple;">**Navigating the 'Links' Page**</mark>
 
@@ -9,21 +9,21 @@ The 'Links' section of our platform serves as the central hub for managing and v
 * This page displays the complete list of URLs you have shortened.
 * For easy navigation, the links are paginated, showing 15 entries by default on each page. This number can be adjusted in your profile settings for personalized viewing.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-03 at 3.32.08 PM.png" alt=""><figcaption><p>img 1 - Links - Central hub for viewing and managing your shortened urls</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Links page (1).jpg" alt=""><figcaption><p>Img 1 - Links - Central hub for viewing and managing your shortened urls</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Sorting and Filtering Options:**</mark>
 
 * **Sort Feature:** The links can be organized by the date they were added or by the total number of clicks. You can choose to view this data in either ascending or descending order. By default, the most recent links appear first, allowing quick access to your latest activity.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-03 at 3.32.31 PM.png" alt=""><figcaption><p>img 2 - Sort by Date or Clicks (Descending or ascending)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter - 1 (1).jpg" alt=""><figcaption><p>Img 2 - Sort by Date or Clicks (Descending or ascending)</p></figcaption></figure>
 
-* **Favorites and Visibility Filter:** You have the option to filter links based on favorites or to include/exclude hidden links, with the default setting to display all links.
+* **Favourites and Visibility Filter:** You have the option to filter links based on favourites or to include/exclude hidden links, with the default setting to display all links.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-03 at 3.32.36 PM (1).png" alt=""><figcaption><p>img 3 - Filter by favourites, hidden urls, locked urls and more</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter - 2.jpg" alt=""><figcaption><p>Img 3 - Filter by Favourites or Hidden urls</p></figcaption></figure>
 
-* **Campaign Filter:** The links can be categorized based on the campaigns they are associated with. By default, all campaigns are shown, but you can easily filter the view to display links from selected campaigns, aiding in streamlined campaign management.
+* **Collection Filter:** The links can be categorized based on the collections they are associated with. By default, all collections are shown, but you can easily filter the view to display links from selected collections, aiding in streamlined collection management.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-03 at 3.32.44 PM.png" alt=""><figcaption><p>img 4 - View all camapigns or filter by required campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter - 3.jpg" alt=""><figcaption><p>Img 4 - View all collections or filter by required collection</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Enhanced Link Management:**</mark>
 
