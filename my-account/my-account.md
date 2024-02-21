@@ -10,9 +10,9 @@ To access your account details, simply click on your username in the sidebar or 
 
 </div>
 
-<figure><img src="../.gitbook/assets/account settings popup (1).jpg" alt=""><figcaption><p>Img 2 - User settings pop up menu on top right of top menu bar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/account settings popup (2).jpg" alt=""><figcaption><p>Img 2 - User settings pop up menu on top right of top menu bar</p></figcaption></figure>
 
-
+###
 
 ### <mark style="color:purple;">My Account submenu</mark>
 
