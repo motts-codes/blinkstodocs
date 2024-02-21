@@ -48,11 +48,11 @@
 * [📈 Collection Detail - Analytics](click-analytics/collection-detail-analytics.md)
 * [🇲🇬 Aggregate Analytics](click-analytics/aggregate-analytics.md)
 
-## User Account
+## My Account
 
-* [☺ Profile Settings](user-account/profile-settings.md)
-* [🔓 Account Security](user-account/account-security.md)
-* [🔑 Reset Password](user-account/reset-password.md)
+* [☺ My Account](my-account/my-account.md)
+* [🔓 Account Security](my-account/account-security.md)
+* [🔑 Reset Password](my-account/reset-password.md)
 
 ## FAQ
 

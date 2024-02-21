@@ -4,7 +4,7 @@ Aggregate Analytics presents a holistic view of your URL performance metrics, gi
 
 ## **Aggregate Analytics Features:**
 
-<figure><img src="../.gitbook/assets/untitled (1).png" alt=""><figcaption><p>img 1 - Aggregate analytics screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Analytics (1).jpg" alt=""><figcaption><p>Img 1 - Analytics Page | Aggregate clicks data for all urls</p></figcaption></figure>
 
 ## <mark style="color:orange;">**Dashboard Overview:**</mark>&#x20;
 
@@ -14,13 +14,13 @@ The top section mirrors the main dashboard, offering familiarity and continuity 
 
 * **First Row:** This area highlights the total count of your URLs, the collective number of clicks they've garnered, additions to your URL list this month, and the total clicks accumulated in the current month.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-04 at 10.55.29 AM.png" alt=""><figcaption><p>img 2 - Total urls/clicks | Of all time and current month</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dashboard metrics.jpg" alt=""><figcaption><p>Img 2 - Total urls/clicks | Of all time and current month</p></figcaption></figure>
 
 <mark style="color:blue;">**b. Click Trends Analysis:**</mark>
 
 * **Second Row:** Here, you'll find a bar graph that illustrates the pattern of daily clicks your URLs receive. This graphical representation comes with the flexibility of adjusting the time frame to better suit your analytical needs. You also have the ability to download this graph as a PNG image for reporting or archival purposes.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-04 at 10.55.33 AM.png" alt=""><figcaption><p>img 3 - Day wise clicks - With Time period filters</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Daywise Clicks (1).jpg" alt=""><figcaption><p>Img 3 - Day wise clicks - With Time period filters</p></figcaption></figure>
 
 ## <mark style="color:orange;">**Top Performers Lists:**</mark>
 
@@ -28,7 +28,7 @@ The top section mirrors the main dashboard, offering familiarity and continuity 
   * Clicking on a URL title redirects to its destination.
   * Clicking on the total clicks leads to detailed analytics for that specific URL
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-04 at 10.55.37 AM.png" alt=""><figcaption><p>img 4 - Top 10 urls</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Top 10.jpg" alt=""><figcaption><p>Img 4 - Top 10 Urls for overall timeline and for Feb 2024</p></figcaption></figure>
 
 ## <mark style="color:orange;">**Geographic and Platform Insights:**</mark>
 
@@ -38,7 +38,7 @@ The top section mirrors the main dashboard, offering familiarity and continuity 
   * **Browser Breakdown:** Identify which web browsers are most used by your audience.
   * **Referral Sources:** Discover the top referring sources that lead users to your content.
 
-<figure><img src="../.gitbook/assets/untitled (2).png" alt=""><figcaption><p>img 5 - Insights of geographics, platforms, browsers etc</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Aggregate Bottom (1).jpg" alt=""><figcaption><p>Img 5 - Insights of geographic information, top platforms, top browsers etc</p></figcaption></figure>
 
 **Time Zone Consideration:**
 
