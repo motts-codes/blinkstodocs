@@ -8,35 +8,44 @@ Accessing the analytics for a specific URL can be done in two simple ways:
 
 1. Click on the **total click count** displayed on the top right corner of the URL component.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 1.40.25 PM.png" alt=""><figcaption><p>img 1 - Navigate to analytics page </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/url comp - analytics (1).jpg" alt=""><figcaption><p>Img 1 - Navigate to analytics page </p></figcaption></figure>
 
 2. Use the **view analytics icon** located on the top tool panel of the URL component.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 1.40.44 PM.png" alt=""><figcaption><p>img 2 - Navigate to analytics page </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/url comp - view analytics (1).jpg" alt=""><figcaption><p>Img 2 - Navigate to analytics page </p></figcaption></figure>
 
 ## <mark style="color:purple;">Understanding the URL Analytics Page</mark>
 
 The URL analytics page is intuitively organised into distinct sections for ease of understanding and analysis:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 1.43.59 PM.png" alt=""><figcaption><p>img 3 - Url Analytics page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Url analytics (1).jpg" alt=""><figcaption><p>Img 3 - Url Analytics Page</p></figcaption></figure>
 
 * **URL Title and Snapshot:** At the top, the title of the URL is displayed prominently, followed by the URL component providing a quick overview of the link's key metrics.
 * **Click Trends:** The main dashboard mirrors the click trends, offering a filterable day-wise breakdown of clicks. You can refine this data using time filters such as:
+  * Last 7 days
   * Last 14 days
   * Current month
   * Last month
   * Last 30 days
-  * Last 90 days
-  * All-time (from the date of creation to the present)
+  * Last 60 days&#x20;
+  * Last 90 days (paid plan)
+  * Last 6 months
+  * Last 1 year (paid plan)
+  * Last 2 years (paid plan)
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 1.45.52 PM.png" alt=""><figcaption><p>img 3 - Url Click Trends</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/url analytics timeframes.jpg" alt=""><figcaption><p>Img 3 - Url Click Trends</p></figcaption></figure>
 
-* **Graphical Insights (For aggreate data from date of creation till today)**
-  * **Top Countries:** A pie chart illustrating the geographical distribution of clicks.
-  * **Top Cities:** A bar chart revealing the urban centers driving the most traffic.
-  * **Top Platforms:** A pie chart displaying the breakdown of desktop vs. mobile and other platforms.
-  * **Top Social Networks:** A bar chart that shows which social media platforms are generating clicks.
-  * **Top Browsers:** A bar chart categorizing the most popular browsers among your audience.
+*   **Graphical Insights (For aggreate data from date of creation till today)**
+
+    * **Top Countries:** A pie chart illustrating the geographical distribution of clicks.
+    * **Top Cities:** A bar chart revealing the urban centers driving the most traffic.
+    * **Geo Clicks:** Explore click data organized by geographic areas through an interactive global map
+    * **Top Devices:** A pie chart displaying the breakdown of desktop vs. mobile and tablets.
+    * **Top Platforms:** A pie char displaying  breakdown of different operating systems from windows, mac os, Android, IOS etc.
+    * **Top Socials:** A bar chart that shows which social media platforms are generating clicks.
+    * **Top Browsers:** A bar chart categorizing the most popular browsers among your audience.
+
+
 
 {% hint style="warning" %}
 All data is presented in the UTC timezone to maintain consistency across various geographical locations.
