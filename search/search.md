@@ -22,6 +22,10 @@ The search functionality is a staple across the platform, accessible via the sea
 
 When you input a term, the search engine looks for a full or partial match across several fields associated with your shortened URLs.
 
+{% embed url="https://youtu.be/ZkLNy3TwB_0" %}
+Video 1 - Search by alias, title, keywords and more
+{% endembed %}
+
 #### Search Criteria:
 
 You can refine your search using various parameters:
