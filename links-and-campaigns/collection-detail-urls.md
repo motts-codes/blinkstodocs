@@ -10,11 +10,11 @@ This page presents a holistic view of your collection's URLs. Here's what to exp
 
 * **Accessing URL Details:** To visit the URL detail page for a specific collection, click on the 'View URLs' icon located on the bottom tool panel of the collection component on the main collections page.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 12.46.35 PM.png" alt=""><figcaption><p>img 1 - Collection urls detail | View urls for a particular collection </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Collection - View urls.jpg" alt=""><figcaption><p>Img 1 - Collection urls detail | View urls for a particular collection </p></figcaption></figure>
 
 * **Functionality:** Once there, you'll see the collection component at the top, followed by all associated URLs listed as individual URL components. You have the flexibility to edit these URLs, remove them from the collection, or perform other typical URL management tasks.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 12.07.34 AM.png" alt=""><figcaption><p>img 2 - Collection  urls detail page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Collection - Urls View.jpg" alt=""><figcaption><p>Img 2 - Collection  urls detail page</p></figcaption></figure>
 
 **Managing URLs Within a Collections:** If you need to disassociate URLs from the current collection:
 
