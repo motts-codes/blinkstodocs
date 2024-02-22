@@ -51,8 +51,10 @@
 ## My Account
 
 * [☺ My Account](my-account/my-account.md)
-* [🔓 Account Security](my-account/account-security.md)
-* [🔑 Reset Password](my-account/reset-password.md)
+* [🦸♂ Account Details](my-account/account-details.md)
+* [💲 Billing & Usage](my-account/billing-and-usage.md)
+* [⚙ Settings](my-account/settings.md)
+* [🌐 Custom Domain](my-account/custom-domain.md)
 
 ## FAQ
 
