@@ -54,6 +54,7 @@
 * [🦸♂ Account Details](my-account/account-details.md)
 * [💲 Billing & Usage](my-account/billing-and-usage.md)
 * [⚙ Settings](my-account/settings.md)
+* [🍮 What are custom domains?](my-account/what-are-custom-domains.md)
 * [🌐 Custom Domain](my-account/custom-domain.md)
 
 ## FAQ
