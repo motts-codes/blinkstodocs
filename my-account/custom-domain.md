@@ -67,7 +67,7 @@ To set up your DNS record, you'll require access to your domain service provider
 
 * In NameCheap or your domain service provider, Create a new record type "TXT" and copy the token as the value. (Host as @).  Click on green tick mark to confirm
 
-<figure><img src="../.gitbook/assets/txt record.jpg" alt=""><figcaption><p>Img 9 - Updated TXT Record with Token</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/txt record (1).jpg" alt=""><figcaption><p>Img 9 - Updated TXT Record with Token</p></figcaption></figure>
 
 #### <mark style="color:orange;">**6. Add a CNAME Record:**</mark>
 
@@ -77,7 +77,7 @@ To set up your DNS record, you'll require access to your domain service provider
 
 The final updated records for A, TXT and CNAME are as follows
 
-<figure><img src="../.gitbook/assets/final records.jpg" alt=""><figcaption><p>Img 11 - Records for Domain Verification</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/final records (1).jpg" alt=""><figcaption><p>Img 11 - Records for Domain Verification</p></figcaption></figure>
 
 #### <mark style="color:orange;">**7. Verify Domain:**</mark>
 
