@@ -72,6 +72,26 @@ Email with password reset instructions
 {% endtab %}
 {% endtabs %}
 
+### <mark style="color:purple;">C. Export your data</mark>
+
+Exporting your data is a breeze. Simply click on the 'Download your URL data' button to retrieve a comprehensive list of all your URLs, complete with details such as the shortened URL, page title, total clicks, original URL, and more.
+
+<figure><img src="../.gitbook/assets/Export Links (1).jpg" alt=""><figcaption><p>Img 10 - Export your links and clicks data</p></figcaption></figure>
+
+### <mark style="color:purple;">D. Access History</mark>
+
+Offers a detailed record of your recent login history, including IP addresses, browser, locations, and timestamps, to enhance security measures.
+
+<figure><img src="../.gitbook/assets/Access History.jpg" alt=""><figcaption><p>Img 11 - Recent login history</p></figcaption></figure>
+
+### <mark style="color:purple;">E. Account Deletion</mark>
+
+If you decide to close your account and delete it, we've streamlined the process for you. Simply click on the 'Delete Account' button. A confirmation pop-up will appear. Confirm the deletion, and your account will be permanently removed. While we'll be sad to see you go, your satisfaction is our priority.
+
+<figure><img src="../.gitbook/assets/Delete Account.jpg" alt=""><figcaption><p>Img 12 - Delete your account</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Account Deletion confirmation.jpg" alt="" width="375"><figcaption><p>Img 13 - Account deletion confirmation</p></figcaption></figure>
+
 
 
 
