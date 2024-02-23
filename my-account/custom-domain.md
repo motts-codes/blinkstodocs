@@ -39,25 +39,25 @@ To configure the custom domain, you need to update DNS records in your domain. Y
 
 To set up your DNS record, you'll require access to your domain service provider. The configuration process may vary slightly among different service providers such as GoDaddy, Digital Ocean, Bluehost, BigRock, NameCheap, etc. However, the underlying concepts remain the same. Here's an example of configuring DNS records with identiti.design on NameCheap.
 
-1. <mark style="color:orange;">**Login in to your domain service provider**</mark>&#x20;
+#### <mark style="color:orange;">**1. Login in to your domain service provider**</mark>&#x20;
 
 <figure><img src="../.gitbook/assets/namecheap login.jpg" alt=""><figcaption><p>Img 4 - Login with credentials</p></figcaption></figure>
 
-2. Click on <mark style="color:orange;">**Manage**</mark> next to your domain
+#### 2. Click on <mark style="color:orange;">**Manage**</mark> next to your domain
 
 <figure><img src="../.gitbook/assets/namecheap - manage.jpg" alt=""><figcaption><p>Img 5 - Manage your domain</p></figcaption></figure>
 
-3. <mark style="color:orange;">**Click on Advanced DNS**</mark>&#x20;
+#### <mark style="color:orange;">**3. Click on Advanced DNS**</mark>&#x20;
 
 <figure><img src="../.gitbook/assets/namecheap - dns (1).jpg" alt=""><figcaption><p>Img 6 - Advanced DNS</p></figcaption></figure>
 
-4. <mark style="color:orange;">**Configure the DNS A Record:**</mark>
+#### <mark style="color:orange;">**4. Configure the DNS A Record:**</mark>
 
 * Click on Add New Record. Select A Record under Type for Value use "216.24.57.1". (Host as @)  Click the green tick mark to confirm. This connection ensures that your custom domain links directly to Blinks.to's URL shortening service.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-23 at 1.44.56 PM.jpg" alt=""><figcaption><p>Img 7 - Add A Record</p></figcaption></figure>
 
-3. <mark style="color:orange;">**Add a DNS TXT Record:**</mark>
+#### <mark style="color:orange;">**5. Add a DNS TXT Record:**</mark>
 
 * In the 'My Branded Domains' section, the token for the domain you want to verify will be displayed. Click 'Copy Token' &#x20;
 
@@ -69,7 +69,7 @@ To set up your DNS record, you'll require access to your domain service provider
 
 <figure><img src="../.gitbook/assets/txt record.jpg" alt=""><figcaption><p>Img 9 - Updated TXT Record with Token</p></figcaption></figure>
 
-4. <mark style="color:orange;">**Add a CNAME Record:**</mark>
+#### <mark style="color:orange;">**6. Add a CNAME Record:**</mark>
 
 * Create a new record type "CNAME" and copy the value as "**blinksto.onrender.com.**" (Host as www)
 
@@ -79,7 +79,7 @@ The final updated records for A, TXT and CNAME are as follows
 
 <figure><img src="../.gitbook/assets/final records.jpg" alt=""><figcaption><p>Img 11 - Records for Domain Verification</p></figcaption></figure>
 
-6. <mark style="color:orange;">**Verify Domain:**</mark>
+#### <mark style="color:orange;">**7. Verify Domain:**</mark>
 
 * Once the DNS records are updated return to the blinks.to app and under My Branded Domains, click on verify next to the custom domain recently updated
 
@@ -89,7 +89,7 @@ The final updated records for A, TXT and CNAME are as follows
 
 <figure><img src="../.gitbook/assets/veriried domain (1).jpg" alt=""><figcaption><p>Img 13 - Verified Domain</p></figcaption></figure>
 
-7. <mark style="color:orange;">**Branded Domain Activation:**</mark>
+#### <mark style="color:orange;">**8. Branded Domain Activation:**</mark>
 
 * Once verified, we'll activate your domain with a free SSL certificate. This process may take up to 24 hours. Once activated, you can start using your custom domain to create shortened links.
 
