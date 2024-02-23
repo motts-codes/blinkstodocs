@@ -6,6 +6,13 @@ Manage Your [Custom Domains](what-are-custom-domains.md) in the 'Custom Domain' 
 
 Adding a [custom domain](what-are-custom-domains.md) to your Blinks.to account is a premium feature available to all users on our premium plan. Here's a step-by-step guide to setting up your custom domain:
 
+1. Add a custom domain
+2. Configure DNS records
+3. Verify domain
+4. Activate domain with SSL certificate
+
+
+
 ### <mark style="color:purple;">A. Adding Custom Domain</mark>
 
 1. **Add Custom Domain:**
