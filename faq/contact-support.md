@@ -17,6 +17,16 @@ Experiencing an issue that our troubleshooting tips didn't resolve? Our Support 
 
 
 
+## <mark style="color:orange;">Chat Support</mark>:
+
+Blinks.to is here for you! Our website boasts a live chat support feature, conveniently accessible on all pages (excluding the app). Click on the vibrant orange chat widget at the bottom right of your screen. Engage with our live representatives for instant support, or drop your queries and requirements for a prompt response, even if we're momentarily offline. Your satisfaction is our priority!
+
+<figure><img src="../.gitbook/assets/Chat - 1.jpg" alt=""><figcaption><p>Img 1 - Chat widget on all web pages</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Chat - 2.jpg" alt=""><figcaption><p>Img 2 - Click and chat with our representative</p></figcaption></figure>
+
 ## Before Contacting Support:
 
 To help us assist you more efficiently, please check the following before reaching out:
