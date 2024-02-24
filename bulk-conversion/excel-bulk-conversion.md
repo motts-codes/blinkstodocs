@@ -56,3 +56,7 @@ The conversion report presents the initially filled columns used for conversion.
 **The shortened urls are shown below for reference:**
 
 <figure><img src="../.gitbook/assets/Excel - converted urls.jpg" alt=""><figcaption><p>Img 6 - Shortened urls using Excel bulk converter</p></figcaption></figure>
+
+**View a quick video run through of the example using excel bulk converter:**
+
+{% embed url="https://youtu.be/NlCUv5LCcEY" %}
