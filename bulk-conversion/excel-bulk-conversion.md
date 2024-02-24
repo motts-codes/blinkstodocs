@@ -44,7 +44,7 @@ Next, I uploaded the file and clicked on 'upload.' Since there were no errors, t
 
 **Here is a snapshot of the conversion report:**
 
-<figure><img src="../.gitbook/assets/Excel - conversion status.jpg" alt=""><figcaption><p>Img 5 - Snapshot of. Conversion report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Excel - conversion status.jpg" alt=""><figcaption><p>Img 5 - Snapshot of Conversion report</p></figcaption></figure>
 
 The conversion report presents the initially filled columns used for conversion. It also includes additional fields:
 
@@ -52,3 +52,7 @@ The conversion report presents the initially filled columns used for conversion.
 * **Long URL:** The shortened link with the alias.
 * **Error:** In the case of any error, it displays the type of error.
 * **Status:** Conversion status - 1. Success or 2. Failed.
+
+**The shortened urls are shown below for reference:**
+
+<figure><img src="../.gitbook/assets/Excel - converted urls.jpg" alt=""><figcaption><p>Img 6 - Shortened urls using Excel bulk converter</p></figcaption></figure>
