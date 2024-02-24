@@ -45,8 +45,8 @@
 
 * [🤖 Bulk Conversion Overview](bulk-conversion/bulk-conversion-overview.md)
 * [🎞️ Data Grid Copy/Paste](bulk-conversion/data-grid-copy-paste.md)
-* [Excel Bulk conversion](bulk-conversion/excel-bulk-conversion.md)
-* [CSV Bulk conversion](bulk-conversion/csv-bulk-conversion.md)
+* [🚀 Excel Bulk conversion](bulk-conversion/excel-bulk-conversion.md)
+* [🚀 CSV Bulk conversion](bulk-conversion/csv-bulk-conversion.md)
 
 ## Click Analytics
 
