@@ -1,4 +1,4 @@
-# 🎛 Dashboard Overview
+# 🎛️ Dashboard Overview
 
 The main dashboard is strategically organized into four primary sections to optimize user navigation and functionality:
 
@@ -58,7 +58,7 @@ Top menu bar consists mainly the [Quick Convert Widget](../shortening-urls/quick
 * **Quick Convert Widget:** [View here](../shortening-urls/quick-convert-widget.md)&#x20;
 * **Search:** A powerful tool to sift through URLs, collections, and more, directing users to a results page with additional filtering options.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-02 at 3.52.40 PM.png" alt=""><figcaption><p>Img 5 - search tool</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/topmenubar - with annotations.jpg" alt=""><figcaption><p>Img 5 - Search, notifications and settings sections in Top menu bar</p></figcaption></figure>
 
 * **Notifications:** Keeps you updated with the latest features, announcements, or personal messages.
 
