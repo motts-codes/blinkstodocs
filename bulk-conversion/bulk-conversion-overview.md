@@ -2,9 +2,11 @@
 
 Blinks.to offers three user-friendly methods for bulk URL shortening, complemented by its robust API. Navigate to the 'Bulk Convert' section through the sidebar to access the bulk conversion page.
 
+
+
 <div align="left">
 
-<figure><img src="../.gitbook/assets/Bulk convert - sidebar (1).jpg" alt="" width="127"><figcaption><p>Img 1 - Sidebar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bulk convert - sidebar (3).jpg" alt="" width="127"><figcaption><p>Img 1 - Sidebar</p></figcaption></figure>
 
 </div>
 
