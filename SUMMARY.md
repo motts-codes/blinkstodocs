@@ -1,10 +1,10 @@
 # Table of contents
 
-* [👋 Welcome to Blinksto](README.md)
+* [👋 Welcome to Quicly](README.md)
 
 ## Overview
 
-* [🚀 Why Blinks.to?](overview/why-blinks.to.md)
+* [🚀 Why quic.ly?](overview/why-quic.ly.md)
 * [✨ Key Features & Benefits](overview/key-features-and-benefits.md)
 
 ## Getting Started
@@ -16,7 +16,7 @@
 
 * [ℹ️ Short urls - 101](shortening-urls/short-urls-101.md)
 * [✨ Quick Convert Widget](shortening-urls/quick-convert-widget.md)
-* [🔗 Anatomy of a blinks.to url](shortening-urls/anatomy-of-a-blinks.to-url.md)
+* [🔗 Anatomy of a quic.ly url](shortening-urls/anatomy-of-a-quic.ly-url.md)
 * [⚙️ Customising your url](shortening-urls/customize-a-shortened-url.md)
 * [✏️ Create custom url](shortening-urls/create-custom-url.md)
 

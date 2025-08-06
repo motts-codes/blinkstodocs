@@ -8,13 +8,9 @@ The main dashboard is strategically organized into four primary sections to opti
 
 ## <mark style="color:purple;">1. Sidebar (Navigation Panel):</mark>
 
-* **Navigation:** Shows various destinations available within the Blinks.to app
+* **Navigation:** Shows various destinations available within the quic.ly app
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Sidebar.jpg" alt="" width="206"><figcaption><p>Img 3 - Sidebar</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Sidebar.jpg" alt="" width="206"><figcaption><p>Img 3 - Sidebar</p></figcaption></figure></div>
 
 ### <mark style="color:orange;">Sidebar Accessibility:</mark>
 

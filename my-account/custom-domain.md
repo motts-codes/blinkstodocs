@@ -4,7 +4,7 @@ Manage Your [Custom Domains](what-are-custom-domains.md) in the 'Custom Domain' 
 
 <figure><img src="../.gitbook/assets/Custom Domain - 1.jpg" alt=""><figcaption><p>Img 1 - Custom Domain Section under My Account</p></figcaption></figure>
 
-Adding a [custom domain](what-are-custom-domains.md) to your Blinks.to account is a premium feature available to all users on our premium plan. Here's a step-by-step guide to setting up your custom domain:
+Adding a [custom domain](what-are-custom-domains.md) to your quic.ly account is a premium feature available to all users on our premium plan. Here's a step-by-step guide to setting up your custom domain:
 
 1. Add a custom domain
 2. Configure DNS records
@@ -23,7 +23,7 @@ Adding a [custom domain](what-are-custom-domains.md) to your Blinks.to account i
 2. Provide the Domain You Own to Use as a Custom Domain for URL Shortening.
 
 {% hint style="warning" %}
-Please Note: If Your Domain Is Currently Hosting a Website or Services, Integrating it with Blinks.to Will Involve Significant Changes to Your DNS Records. This Action Redirects Traffic from Your Existing Website or Services to Blinks.to's URL Shortening Service
+Please Note: If Your Domain Is Currently Hosting a Website or Services, Integrating it with quic.ly Will Involve Significant Changes to Your DNS Records. This Action Redirects Traffic from Your Existing Website or Services to quic.ly's URL Shortening Service
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Custom Domain - 3 (1).jpg" alt=""><figcaption><p>Img 2 - Enter domain you own</p></figcaption></figure>
@@ -42,7 +42,7 @@ To configure the custom domain, you need to update DNS records in your domain. Y
 
 1. **"A Record"** : To point to IP address  216.24.57.1.&#x20;
 2. **"TXT Record"**: Create txt record and paste the token provided
-3. **"CNAME Record"**: To point to blinks.to
+3. **"CNAME Record"**: To point to quic.ly
 
 To set up your DNS record, you'll require access to your domain service provider. The configuration process may vary slightly among different service providers such as GoDaddy, Digital Ocean, Bluehost, BigRock, NameCheap, etc. However, the underlying concepts remain the same. Here's an example of configuring DNS records with identiti.design on NameCheap.
 
@@ -60,7 +60,7 @@ To set up your DNS record, you'll require access to your domain service provider
 
 #### <mark style="color:orange;">**4. Configure the DNS A Record:**</mark>
 
-* Click on Add New Record. Select A Record under Type for Value use "216.24.57.1". (Host as @)  Click the green tick mark to confirm. This connection ensures that your custom domain links directly to Blinks.to's URL shortening service.
+* Click on Add New Record. Select A Record under Type for Value use "216.24.57.1". (Host as @)  Click the green tick mark to confirm. This connection ensures that your custom domain links directly to quic.ly's URL shortening service.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-23 at 1.44.56 PM.jpg" alt=""><figcaption><p>Img 7 - Add A Record</p></figcaption></figure>
 
@@ -78,7 +78,7 @@ To set up your DNS record, you'll require access to your domain service provider
 
 #### <mark style="color:orange;">**6. Add a CNAME Record:**</mark>
 
-* Create a new record type "CNAME" and copy the value as "**blinksto.onrender.com.**" (Host as www)
+* Create a new record type "CNAME" and copy the value as "**quic.ly.onrender.com.**" (Host as www)
 
 <figure><img src="../.gitbook/assets/cname record.jpg" alt=""><figcaption><p>Img 10 - Updated CNAME record</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ The final updated records for A, TXT and CNAME are as follows
 
 #### <mark style="color:orange;">**7. Verify Domain:**</mark>
 
-* Once the DNS records are updated return to the blinks.to app and under My Branded Domains, click on verify next to the custom domain recently updated
+* Once the DNS records are updated return to the quic.ly app and under My Branded Domains, click on verify next to the custom domain recently updated
 
 <figure><img src="../.gitbook/assets/verify domain.jpg" alt=""><figcaption><p>Img 12 - Verify branded domain</p></figcaption></figure>
 

@@ -1,10 +1,10 @@
 # 📪 Create a free account
 
-Welcome to Blinks.to, the premier URL shortening service that transforms long, unwieldy links into short, user-friendly URLs. Follow these simple steps to create your account and start shortening URLs today.
+Welcome to quic.ly, the premier URL shortening service that transforms long, unwieldy links into short, user-friendly URLs. Follow these simple steps to create your account and start shortening URLs today.
 
 ### STEP 1: **Visit the Sign-Up Page**
 
-Navigate to [blinks.to](https://www.blinks.to/signup) and click on the "Sign Up" button, usually located at the top right corner of the homepage.
+Navigate to [quic.ly](http://quic.ly/) and click on the "Sign Up" button, usually located at the top right corner of the homepage.
 
 <figure><img src="../.gitbook/assets/Signup.jpg" alt=""><figcaption><p>Img 1: Signup for free form</p></figcaption></figure>
 

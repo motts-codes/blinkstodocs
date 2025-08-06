@@ -1,8 +1,8 @@
-# 🤵♂ Contact Support
+# 🤵‍♂️ Contact Support
 
 ## <mark style="color:purple;">Contact Support</mark>
 
-Experiencing an issue that our troubleshooting tips didn't resolve? Our Support Team is here to help you navigate through any challenges you're facing with the Blinks.to platform.
+Experiencing an issue that our troubleshooting tips didn't resolve? Our Support Team is here to help you navigate through any challenges you're facing with the quic.ly platform.
 
 #### How to Reach Out:
 
@@ -13,13 +13,13 @@ Experiencing an issue that our troubleshooting tips didn't resolve? Our Support 
 * Any error messages you've encountered.
 * Screenshots that illustrate the issue (if applicable).
 
-**Email Us:** Alternatively, you can send us an email directly at [support@blinks.to](mailto:support@blinks.to). Expect a response within 24 hours on business days.
+**Email Us:** Alternatively, you can send us an email directly at [support@quic.ly](mailto:support@blinks.to). Expect a response within 24 hours on business days.
 
 
 
 ## <mark style="color:orange;">Chat Support</mark>:
 
-Blinks.to is here for you! Our website boasts a live chat support feature, conveniently accessible on all pages (excluding the app). Click on the vibrant orange chat widget at the bottom right of your screen. Engage with our live representatives for instant support, or drop your queries and requirements for a prompt response, even if we're momentarily offline. Your satisfaction is our priority!
+quic.ly is here for you! Our website boasts a live chat support feature, conveniently accessible on all pages (excluding the app). Click on the vibrant orange chat widget at the bottom right of your screen. Engage with our live representatives for instant support, or drop your queries and requirements for a prompt response, even if we're momentarily offline. Your satisfaction is our priority!
 
 <figure><img src="../.gitbook/assets/Chat - 1.jpg" alt=""><figcaption><p>Img 1 - Chat widget on all web pages</p></figcaption></figure>
 
@@ -46,4 +46,4 @@ Your feedback is valuable to us. After your issue has been resolved, we'd love t
 
 👉🏼 [Click here](https://blinksto.canny.io) to leave feedback, leave a feature request, report a bug or just view product roadmap
 
-Thank you for choosing Blinks.to, and we look forward to serving you!
+Thank you for choosing quic.ly, and we look forward to serving you!

@@ -8,7 +8,7 @@
 
 To shorten a URL, follow these simple steps:
 
-* Log in to your Blinks.to account.
+* Log in to your quic.ly account.
 * Navigate to the Dashboard. 'Shorten URL' section.
 * Enter the URL you wish to shorten in the designated field.
 * Click 'Shorten', and your new compact URL is ready to use!
@@ -82,7 +82,7 @@ Find the collection you want to edit in the 'Collections' section. Click on the 
 
 <summary><strong>What analytics are available for my URLs and collections?</strong></summary>
 
-Blinks.to provides a range of analytics, including:
+quic.ly provides a range of analytics, including:
 
 1. Url level analytics
 2. Collection level analytics

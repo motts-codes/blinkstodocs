@@ -1,13 +1,13 @@
-# 🔗 Anatomy of a blinks.to url
+# 🔗 Anatomy of a quic.ly url
 
 #### Understanding the Anatomy of a Shortened URL
 
-Upon transforming your URLs using http://blinks.to, each shortened link is presented with a consistent structure of components across the app. This setup ensures straightforward viewing and convenient editing options for users. In this segment, we delve into the various components of a shortened URL, elucidating on editable features and additional information provided for a seamless customization and editing experience.
+Upon transforming your URLs using http://quic.ly, each shortened link is presented with a consistent structure of components across the app. This setup ensures straightforward viewing and convenient editing options for users. In this segment, we delve into the various components of a shortened URL, elucidating on editable features and additional information provided for a seamless customization and editing experience.
 
-<figure><img src="../.gitbook/assets/url component (2).jpg" alt=""><figcaption><p>Img 1 - Anatomy of a blinks.to url component</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/url component (2).jpg" alt=""><figcaption><p>Img 1 - Anatomy of a quic.ly url component</p></figcaption></figure>
 
 {% embed url="https://drive.google.com/file/d/1sNtPeIaOiN_YS5BoKRTkOoWCiaZ8Stdx/view?usp=share_link" %}
-Blinks.to url component
+quic.ly url component
 {% endembed %}
 
 ## <mark style="color:purple;">**1. Page Title**</mark><mark style="color:purple;">:</mark>&#x20;
@@ -17,7 +17,7 @@ Initially sourced from the web page’s title of the long URL you’ve input for
 
 ## <mark style="color:purple;">**2. Alias or Backref**</mark><mark style="color:purple;">:</mark>&#x20;
 
-The unique and randomly generated segment of your shortened URL by blinksto. This is the segment you share with your audience, facilitating performance tracking.\
+The unique and randomly generated segment of your shortened URL by **quic.ly**. This is the segment you share with your audience, facilitating performance tracking.\
 
 
 ## <mark style="color:purple;">**3. Long URL**</mark><mark style="color:purple;">:</mark>&#x20;
@@ -64,7 +64,7 @@ Offers a suite of editing functionalities:
 
 A visual icon sourced from the original URL’s webpage. In its absence, a generic globe icon is utilized.
 
-Through understanding the intricate components and functionalities associated with your shortened URLs, you are now equipped to fully leverage the editing and customisation capabilities of blinks.to, ensuring a tailored and efficient experience.
+Through understanding the intricate components and functionalities associated with your shortened URLs, you are now equipped to fully leverage the editing and customisation capabilities of quic.ly, ensuring a tailored and efficient experience.
 
 
 

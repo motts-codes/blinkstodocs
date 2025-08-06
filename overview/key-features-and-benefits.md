@@ -1,6 +1,6 @@
 # ✨ Key Features & Benefits
 
-**Blinks.to** offers an array of powerful features to revolutionize your link sharing experience:
+**quic.ly** offers an array of powerful features to revolutionize your link sharing experience:
 
 
 
@@ -13,7 +13,7 @@ For Free Plans and Above
 * **More Options:** Quickly convert links with a swift process or dive into customization with options like custom alias, title, and UTM parameters. The power is in your hands.
 * **Link Management:** Secure your important links with Link Lock, set passwords
 * **Customisation:** Edit alias names, redirect links and page titles (with limits)
-* **UTM Buider:** Easily build UTM parameters to track link traffic with precision
+* **UTM Builder:** Easily build UTM parameters to track link traffic with precision
 * **QR Code Generator:** Easily generate QR codes and track their scans, bridging the gap between online and offline engagement.
 * **Swift Bulk Conversion:** Easily copy and paste multiple URLs using our intuitive tabular interface for rapid and efficient conversions.
 * **Campaign Management:** Organize your links into campaigns for efficient tracking and analytics.
@@ -38,4 +38,4 @@ For Paid Plans (Including Free + below features)
 * **Team Collaboration:** Enhance teamwork by adding team members and tracking performance together.
 * **Custom QR Code:** Design custom QR codes with unique shapes, patterns, and colors&#x20;
 
-With these comprehensive features, **Blinks.to** provides a versatile platform for URL shortening, branding, and advanced link management. Enjoy a seamless and secure link-sharing experience while ensuring the privacy and security of your data.
+With these comprehensive features, **quic.ly** provides a versatile platform for URL shortening, branding, and advanced link management. Enjoy a seamless and secure link-sharing experience while ensuring the privacy and security of your data.

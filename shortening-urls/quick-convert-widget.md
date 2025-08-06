@@ -1,10 +1,10 @@
 ---
 description: >-
   Transforming your long and unwieldy URLs into short, manageable links is
-  simple with blinks.to
+  simple with quic.ly
 ---
 
-# ✨ How to shorten a url?
+# ✨ Quick Convert Widget
 
 {% hint style="info" %}
 In this section, we will guide you through the process of shortening URLs, customizing them, and sharing them with your audience.
@@ -12,7 +12,7 @@ In this section, we will guide you through the process of shortening URLs, custo
 
 ### <mark style="color:purple;">Effortless Url Shortening</mark>
 
-Shortening URLs in Blinks.to is a breeze, and we'll start with the **Quick Convert Widget**, a simple and efficient method accessible from every page within the app.
+Shortening URLs in quic.ly is a breeze, and we'll start with the **Quick Convert Widget**, a simple and efficient method accessible from every page within the app.
 
 Quick Convert Widget
 
@@ -31,7 +31,7 @@ Quick Convert Widget
 
 <figure><img src="../.gitbook/assets/copied after shortening.jpg" alt=""><figcaption><p>Img 4. Url copied to clipboard</p></figcaption></figure>
 
-**Post-Shortening Navigation in Blinks.to:**
+**Post-Shortening Navigation in quic.ly:**
 
 Upon utilizing the Quick Convert Widget to shorten a URL, the behavior varies based on the page you are currently on:
 

@@ -1,14 +1,10 @@
 # 🤖 Bulk Conversion Overview
 
-Blinks.to offers three user-friendly methods for bulk URL shortening, complemented by its robust API. Navigate to the 'Bulk Convert' section through the sidebar to access the bulk conversion page.
+quic.ly offers three user-friendly methods for bulk URL shortening, complemented by its robust API. Navigate to the 'Bulk Convert' section through the sidebar to access the bulk conversion page.
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Bulk convert - sidebar (3).jpg" alt="" width="127"><figcaption><p>Img 1 - Sidebar</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Bulk convert - sidebar (3).jpg" alt="" width="127"><figcaption><p>Img 1 - Sidebar</p></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/Bulk convert - submenu.jpg" alt=""><figcaption><p>Img 2 - Bulk convert submenu with 3 options for conversion</p></figcaption></figure>
 
@@ -34,10 +30,6 @@ Note: Excel and CSV formats are suitable for numbers beyond 100, but robust erro
 
 * Convenient help is available in all formats. Expand the 'Need a Hand?' button to find descriptive information on using this feature.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Need a hand.jpg" alt="" width="190"><figcaption><p>Img 6 - Expandable help</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Need a hand.jpg" alt="" width="190"><figcaption><p>Img 6 - Expandable help</p></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/help - data grid.jpg" alt=""><figcaption><p>Img 7 - Expanded help with detailed explanation on how to use the feature</p></figcaption></figure>

@@ -1,12 +1,12 @@
-# ⚙ Settings
+# ⚙️ Settings
 
-Blinks.to offers a choice of three free domains to cater to your unique URL shortening needs:
+quic.ly offers a choice of three free domains to cater to your unique URL shortening needs:
 
-1. **Blinks.to:** The default domain, perfect for crafting engaging and memorable links for diverse audiences.
+1. **quic.ly:** The default domain, perfect for crafting engaging and memorable links for diverse audiences.
 2. **my-biz.shop:** Tailored for e-commerce brands, small businesses, and entrepreneurs seeking a strong online presence.
 3. **short-link.pro:** Ideal for professionals projecting expertise, authority, and a serious business demeanor.
 
-By default, URLs are shortened using the Blinks.to domain across all endpoints, including the quick convert widget on all pages, create custom URLs, bulk conversion, etc. However, in the 'Settings' section of 'My Account,' you have the flexibility to change the default domain to another one, including custom/branded domains available in paid plans.
+By default, URLs are shortened using the quic.ly domain across all endpoints, including the quick convert widget on all pages, create custom URLs, bulk conversion, etc. However, in the 'Settings' section of 'My Account,' you have the flexibility to change the default domain to another one, including custom/branded domains available in paid plans.
 
 To set your preferred domain:
 

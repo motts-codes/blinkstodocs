@@ -4,13 +4,13 @@ description: Search Functionality Guide
 
 # 🔍 Search
 
-The [Blinks.to](http://blinks.to/) application is equipped with a powerful, in-depth search function designed to help you swiftly locate any of your shortened URLs.
+The [quic.ly](http://quic.ly/) application is equipped with a powerful, in-depth search function designed to help you swiftly locate any of your shortened URLs.
 
 ## <mark style="color:purple;">Accessing Search:</mark>
 
 The search functionality is a staple across the platform, accessible via the search icon prominently displayed on the top bar of every page. To execute a search:
 
-<figure><img src="../.gitbook/assets/Seacrch icon.jpg" alt=""><figcaption><p>Img 1 - Search Icon on Top menu bar. Click to inititate search</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Seacrch icon.jpg" alt=""><figcaption><p>Img 1 - Search Icon on Top menu bar. Click to initiate search</p></figcaption></figure>
 
 1. Click on the search icon to the right of the top menu bar
 2. In the search pop up window, enter your search terms and click on search button
@@ -30,7 +30,7 @@ Video 1 - Search by alias, title, keywords and more
 
 You can refine your search using various parameters:
 
-1. **Shortened Link**: Search directly for the shortened alias (e.g., "wikipedia"), with or without the full domain (e.g., "[https://blinks.to/wikipedia](https://blinks.to/wikipedia)" or "blinks.to/wikipedia").
+1. **Shortened Link**: Search directly for the shortened alias (e.g., "wikipedia"), with or without the full domain (e.g., "[https://quick.ly/wikipedia](https://quic.ly/wikipedia)" or "quic.ly/wikipedia").
 2. **Title**: Input either the complete title or a significant portion of it.
 3. **Original Link**: Use the full or partial original URL that you shortened.
 4. **Campaign Name**: Search for URLs associated with a specific campaign by entering the campaign's name.

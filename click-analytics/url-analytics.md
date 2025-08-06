@@ -1,6 +1,6 @@
 # 📈 Url Analytics
 
-Our URL analytics at [Blinks.to](http://blinks.to/) are designed to provide detailed insights into your link performance, helping you to not only measure but also improve the effectiveness of your URLs. Whether you're accessing analytics from the links section, dashboard, search results, or any other part of the app, the URL component facilitates seamless navigation to your desired analytics page.
+Our URL analytics at [quic.ly](http://quic.ly/) are designed to provide detailed insights into your link performance, helping you to not only measure but also improve the effectiveness of your URLs. Whether you're accessing analytics from the links section, dashboard, search results, or any other part of the app, the URL component facilitates seamless navigation to your desired analytics page.
 
 ## <mark style="color:purple;">Navigating to URL Analytics</mark>
 
@@ -35,13 +35,13 @@ The URL analytics page is intuitively organised into distinct sections for ease 
 
 <figure><img src="../.gitbook/assets/url analytics timeframes.jpg" alt=""><figcaption><p>Img 3 - Url Click Trends</p></figcaption></figure>
 
-*   **Graphical Insights (For aggreate data from date of creation till today)**
+*   **Graphical Insights (For aggregate data from date of creation till today)**
 
     * **Top Countries:** A pie chart illustrating the geographical distribution of clicks.
     * **Top Cities:** A bar chart revealing the urban centers driving the most traffic.
     * **Geo Clicks:** Explore click data organized by geographic areas through an interactive global map
     * **Top Devices:** A pie chart displaying the breakdown of desktop vs. mobile and tablets.
-    * **Top Platforms:** A pie char displaying  breakdown of different operating systems from windows, mac os, Android, IOS etc.
+    * **Top Platforms:** A pie chart displaying  breakdown of different operating systems from windows, mac os, Android, IOS etc.
     * **Top Socials:** A bar chart that shows which social media platforms are generating clicks.
     * **Top Browsers:** A bar chart categorizing the most popular browsers among your audience.
 
